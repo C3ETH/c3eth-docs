@@ -1,42 +1,42 @@
-# Project Catalyst Challenge and Proposal Guide
+# Sebuah Tantangan dari Project Catalyst dan Panduan untuk Proposal
 
 Project Catalyst is underway and we’re seeing some incredible participation from a wide spectrum of individuals. This is a collaborative process to create a worldwide community innovation project. The problem statement, solution, relevant experience, and funds requested will be displayed in the voting application. This will allow everyone to learn about the initiatives before voting on them.
 
 The proposal plans and attachments can be viewed on our innovation platform, hosted by Ideascale, in order to gain an understanding of the details. This all means that we want everyone to feel confident in contributing to the discussion as a whole.
 
-The quality of the output is dependent on the community’s ability to create and engage with new ideas. To that end, we would like to share a quick guide to writing successful proposals:
+The quality of the output is dependent on the community’s ability to create and engage with new ideas. Karena itu kita ingin membagikan panduan cepat dalam menuliskan proposal yang baik.
 
-### Proposing a title* (35 char limit) +
+### Proposing a title* (35 char limit)
 
-The proposal name should give an indication of the innovation that you are trying to achieve while also grabbing people’s attention. But we want to avoid any slick marketing speak. Just tell your audience what it does and who it is for as clearly as possible. Keep it simple and informative and keep your audience in mind.
+The proposal name should give an indication of the innovation that you are trying to achieve while also grabbing people’s attention. Cukup infokan saja para pembaca tentang apa yang akan dicapai, untuk siapakah proposal ini dengan sejelas mungkin. Just tell your audience what it does and who it is for as clearly as possible. Keep it simple and informative and keep your audience in mind.
 
-**Example Title:**
+**Contoh sebuah judul:**
 
-> Stake pool operator vlog network
+> Jaringan vlog SPO
 
-### How To Write a Problem Statement (140 Char limit)
+### Bagaimana Cara Menulis Problem Statement (batas 140 karakter)
 
-#### Rising to the challenge
+#### Menjawab tantangan
 
 Each fund will have a specific challenge which proposals will attempt to solve. Challenges will originally be set by the Project Catalyst team and then opportunities will arise for the community to develop their own. It is crucial that proposals address the challenge directly. Here is an example of a challenge and some problem statements which address it.
 
-#### Challenge
+**Challenge**
 
 > How can we encourage developers and entrepreneurs to build Dapps and businesses on top of Cardano in the next 6 months?
 
 **Problem statements**
 
-> Builders don’t want to deal with the red tape\time cost of securing funding. How do we help Cardano builders streamline proposals?
+> Orang yang bertipe pembuat tidak ingin berurusan dengan birokrasi dan waktu yang dibutuhkan untuk mendapatkan pendanaan. Bagaimana cara kita membantu para pembuat Cardano agar membuat proses pembuatan proposal lebih ringkas?
 
 > I am trying to solve the problem of bootstrapping decentralized\open finance movement on Cardano before Plutus and Marlowe hit mainnet.
 
 In both of these examples the relationship between the problem statements and the challenge is apparent. This is what voters will be looking for. However, while the content of the problem statements is clear and effective, these problem statements can be improved.
 
-### Making great problem statements (140 char. limit)
+#### Making great problem statements (140 char limit)
 
 The problem statement identifies the issue related to the challenge, and offers a solution. It is important to focus on common problems, urgent problems, expensive problems, and frequent problems. Explaining your problem in these terms is crucial to a good proposal so it should be the first thing seen by voters. A good problem statement has four components: the desired outcome, blocking problem, costs of the problem, and the evidence.
 
-### Structure of the problem statement
+#### Structure of the problem statement
 
 **Desired outcome:** This paints a picture of the ideal set of circumstances once your solution is accepted.
 
@@ -46,33 +46,37 @@ The problem statement identifies the issue related to the challenge, and offers 
 
 **Evidence:** Support for your position laid out in a detailed plan. Here's an example:
 
-| Statement Component    | Description                                                                           |
-| ---------------------- | ------------------------------------------------------------------------------------- |
-| *Desired Outcome*      | We want to make it affordable to transfer money to workers living in the Philippines. |
-| *Blocking problem*     | 11% of the population of the Philippines lose money on transaction fees.              |
-| *Costs of the problem* | Around $1 billion is paid in transfer fees annually.                                  |
-| *Evidence*             | Link(s) to data which proves this.                                                    |
+| Statement Component        | Description                                                                 |
+| -------------------------- | --------------------------------------------------------------------------- |
+| *Hasil yang diinginkan*    | Kita ingin membuat transfer uang ke pekerja di Filipina menjadi terjangkau. |
+| *Masalah yang menghalangi* | 11% penduduk Filipina kehilangan uang ketika ada biaya transaksi.           |
+| *Biaya dari permasalahan*  | Sekitar $1 milyar dibayarkan dalam bentuk biaya transaksi secara tahunan.   |
+| *Bukti*                    | Link (s) to data which proves this.                                         |
 
 Here’s the complete problem statement which condenses the information above:
 
-> Money transfer to Philippines workers should be affordable. However, 11% of the population are losing 1B$ in transaction fees per year. Research links [1],[2]“
-> 
-> *In Conclusion* - State your desired outcome and the problem blocking it - Define the cost of the problem - Give evidence for your findings
+> “Money transfer to Philippines workers should be affordable. Akan tetapi 11% penduduknya kehilangan sekitar $1 milyar dalam bentuk biaya transaksi tiap tahunnya. Link penelitian \[1\]\[2\]
 
+#### In Conclusion
+- State your desired outcome and the problem blocking it
+- Define the cost of the problem
+- Give evidence for your findings
 ### Solution (140 Char limit)
 
 #### Structuring the Solution
 
 So, you only have 140 characters to give a lot of important information. When every character counts, it is important that you address the prompt exactly.
 
-It may sound obvious, but your solution must be based on a known problem. It has to actually solve the problem laid out in the problem statement. A solution in search of a problem is rarely an attractive option because it is less efficient than filling a distinct need. So remember: start with solving a problem and then lay out the vision of your solution in the *Plan in Detail* section. Your 140 characters should address the problem, solve it, and give some insight into how your solution is different from others.
+It may sound obvious, but your solution must be based on a known problem. It has to actually solve the problem laid out in the problem statement. A solution in search of a problem is rarely an attractive option because it is less efficient than filling a distinct need. So remember: start with solving a problem and then lay out the vision of your solution in the ‘Plan in Detail’ section. Your 140 characters should address the problem, solve it, and give some insight into how your solution is different from others.
 
 *Example solution statement*
 
-> How can we encourage developers and entrepreneurs to build Dapps and businesses on top of Cardano in the next 6 months?
-> 
-> In Conclusion - Address the problem directly to ensure that your solution rises to the challenge - Make your project stand out through differentiation - Create a solution that solves a problem instead of one looking for a problem.
+> Create a stakepool operator-run digital magazine maintained on the blockchain to expose Cardano to new audiences outside of current users.
 
+#### In Conclusion
+- Address the problem directly to ensure that your solution rises to the challenge
+- Make your project stand out through differentiation
+- Create a solution that solves a problem instead of one looking for a problem
 ### Relevant Experience (140 Char limit)
 
 #### Find your edge
@@ -86,14 +90,16 @@ The people who are working on your proposal can lend their personal expertise an
 *Example Experience:*
 
 > John Doe completed his PhD with a focus on incentive schemes for blockchain treasury systems.
-> 
-> In Conclusion* - Find your competitive edge and make sure that it is well known - This might look different for different kinds of projects - Remember that your audience is other people on the innovation platform
+#### In Conclusion
+- Find your competitive edge and make sure that it is well known
+- This might look different for different kinds of projects
+- Remember that your audience is other people on the innovation platform
 
 ### Plan In Detail
 
 #### Differentiate through insight
 
-Now that we have outlined the problem and given a solid solution, let’s talk about execution. Different problems require different solutions. We are looking for a wide variety of project ideas from marketing campaigns and educational resources to developer infrastructure improvements and business development.
+Now that we have outlined the problem and given a solid solution, let’s talk about execution. Different problems require different solutions. We are looking for a wide variety of project ideas from marketing campaigns and educational resources to developer infrastructure improvements and business development
 
 You should look at your plan as a roadmap and a need analysis. First of all, Why does your solution work? While you may have been the first to identify your problem it is important that you explain why your solution will be the most successful in a field of possible options.
 
@@ -113,7 +119,7 @@ Your solution works in the market in a particularly impactful way.
 
 Your route to user and platform acquisition is clear and well thought out.
 
-> *Example:* Access to network information drives user acquisition for no cost.
+> *Example:*  Access to network information drives user acquisition for no cost
 
 #### Monopoly
 
@@ -121,17 +127,17 @@ As you grow in the field your company actually gets stronger.
 
 > *Example:* Using the Ouroboros protocol allows our system to become more secure as decentralization increases.
 
-#### Show us the money:
+#### Show us the money
 
-Complex problems often need sufficient funding to be solved. This is understood by the community at Project Catalyst. However, anyone voting on these proposals should be able to know how the funding is being spent.
+Complex problems often need sufficient funding to be solved. This is understood by the community at Project Catalyst. However, anyone voting on these proposals should be able to know how the funding is being spent. Giving a detailed breakdown of how the budget will be spent. This can come in a variety of ways but distilling your budget into a series of line items is a clear way to show voters that you have considered how major funding initiatives will be spent.
 
-Giving a detailed breakdown of how the budget will be spent. This can come in a variety of ways but distilling your budget into a series of line items is a clear way to show voters that you have considered how major funding initiatives will be spent. It is also important to remember that your budget should meet the requirements of the project you’re setting out to accomplish. If you are trying to gain funding for a small meetup then a couple hundred dollars should be sufficient. If you are coordinating the development of critical infrastructure then you will need more resources. Make sure to pair the vision with the appropriate funding.
+It is also important to remember that your budget should meet the requirements of the project you’re setting out to accomplish. If you are trying to gain funding for a small meetup then a couple hundred dollars should be sufficient. If you are coordinating the development of critical infrastructure then you will need more resources. Make sure to pair the vision with the appropriate funding.
 
 > *Example:* Creating a developer focused podcast will take $5k in the initial 6 months.
 
 #### Getting on the road
 
-When building your proposal, you should write as if you will be receiving funding. But it’s important that anyone reading your proposal understands that you will be able to hit the ground running. This is where your roadmap comes in. Your roadmap should break down all of the key milestones you intend to hit once funding is received. This can be done in a couple of different ways, but a good roadmap details your *one month, three month, and six month goals.*
+When building your proposal, you should write as if you will be receiving funding. But it’s important that anyone reading your proposal understands that you will be able to hit the ground running. This is where your roadmap comes in. Your roadmap should break down all of the key milestones you intend to hit once funding is received. This can be done in a couple of different ways, but a good roadmap details your one month, three month, and six month goals.
 
 In the roadmap it is also important to identify your key performance indicators (KPIs). These are the goals that you hit which demonstrate that you have been successful. Here are some examples of KPIs:
 
@@ -144,7 +150,7 @@ The important thing to remember about KPIs is that they should have a number att
 
 #### Intellectual Property
 
-Please share with reviewers what is your IP policy (Patents, trademarks, copyright, licensing etc’) so they can assess if that is a good fit for the treasury.
+Please share with reviewers what is your IP policy (Patents, trademarks, copyright, licensing etc) so they can assess if that is a good fit for the treasury.
 
 #### Defining Success
 
@@ -182,7 +188,6 @@ In order to make each individual proposal as strong as possible we encourage eve
 - Make other proposals stronger by giving good feedback
 - Incorporate useful feedback into your own proposal
 - Participate actively in the innovation process to make sure it continues to grow
-
 ### How To Write a Community Choice Proposal
 
 #### Emancipating the community
