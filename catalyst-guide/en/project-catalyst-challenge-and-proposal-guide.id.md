@@ -1,14 +1,14 @@
 # Sebuah Tantangan dari Project Catalyst dan Panduan untuk Proposal
 
-Project Catalyst is underway and we’re seeing some incredible participation from a wide spectrum of individuals. This is a collaborative process to create a worldwide community innovation project. The problem statement, solution, relevant experience, and funds requested will be displayed in the voting application. This will allow everyone to learn about the initiatives before voting on them.
+Project Catalyst telah berjalan dan kita melihat partisipasi luar biasa dari seluruh dunia dengan individu-individu yang berbeda-beda. Ini adalah proses kolaborasi untuk menciptakan proyek inovasi yang melibatkan komunitas global. Pernyataan permasalahan, solusi, pengalaman yang relevan serta dana yang diminta akan terlihat di aplikasi voting. Ini akan memperbolehkan siapa saja untuk belajar mengenai proposal tertentu sebelum melakukan pemilihan.
 
-The proposal plans and attachments can be viewed on our innovation platform, hosted by Ideascale, in order to gain an understanding of the details. This all means that we want everyone to feel confident in contributing to the discussion as a whole.
+Proposal ini beserta dokumen yang mengikuti dapat dilihat pada platform untuk inovasi yang dibuat oleh Ideascale, dengan tujuan agar dapat memahami detailnya. Ini berarti kita ingin semua merasa percaya diri ketika berkontribusi dalam kaitannya menciptakan sebuah diskusi.
 
-The quality of the output is dependent on the community’s ability to create and engage with new ideas. Karena itu kita ingin membagikan panduan cepat dalam menuliskan proposal yang baik.
+Hasil dari proposal tergantung dari kemampuan komunitas untuk menciptakan dan berinteraksi dengan ide baru. Karena itu kita ingin membagikan panduan cepat dalam menuliskan proposal yang baik.
 
-### Proposing a title* (35 char limit)
+### Megajukan Judul Proposal (batas 35 karakter)
 
-The proposal name should give an indication of the innovation that you are trying to achieve while also grabbing people’s attention. Cukup infokan saja para pembaca tentang apa yang akan dicapai, untuk siapakah proposal ini dengan sejelas mungkin. Just tell your audience what it does and who it is for as clearly as possible. Keep it simple and informative and keep your audience in mind.
+Nama proposal sebaiknya memberikan indikasi mengenai inovasi yang anda coba capai sekaligus bisa menggaet perhatian massa. Tapi hindari bahasa marketing. Cukup infokan saja para pembaca tentang apa yang akan dicapai, untuk siapakah proposal ini dengan sejelas mungkin. Just tell your audience what it does and who it is for as clearly as possible. Buatlah simple dan informatif serta pertimbangkan selalu para pembaca.
 
 **Contoh sebuah judul:**
 
@@ -18,44 +18,44 @@ The proposal name should give an indication of the innovation that you are tryin
 
 #### Menjawab tantangan
 
-Each fund will have a specific challenge which proposals will attempt to solve. Challenges will originally be set by the Project Catalyst team and then opportunities will arise for the community to develop their own. It is crucial that proposals address the challenge directly. Here is an example of a challenge and some problem statements which address it.
+Tiap pendanaan akan mempunyai kategori tantangan-tantangan spesifik yang mana proposal akan mencoba memberikan solusi kepada tiap tantangan tersebut. Challenges will originally be set by the Project Catalyst team and then opportunities will arise for the community to develop their own. It is crucial that proposals address the challenge directly. Here is an example of a challenge and some problem statements which address it.
 
-**Challenge**
+**Contoh Tantangan/Challenge**
 
-> How can we encourage developers and entrepreneurs to build Dapps and businesses on top of Cardano in the next 6 months?
+> Bagaimana cara kita mendorong developer dan entrepreneurs untuk membangun Dapps dan bisnis diatas Cardano dalam waktu 6 bulan kedepan?
 
 **Problem statements**
 
 > Orang yang bertipe pembuat tidak ingin berurusan dengan birokrasi dan waktu yang dibutuhkan untuk mendapatkan pendanaan. Bagaimana cara kita membantu para pembuat Cardano agar membuat proses pembuatan proposal lebih ringkas?
 
-> I am trying to solve the problem of bootstrapping decentralized\open finance movement on Cardano before Plutus and Marlowe hit mainnet.
+> Saya sedang mencoba memecahkan masalah bootstrapping pergerakan finansial terbuka/desentralisasi diatas Cardano sebelum Plutus atau Marlowe aktif di mainnet.
 
-In both of these examples the relationship between the problem statements and the challenge is apparent. This is what voters will be looking for. However, while the content of the problem statements is clear and effective, these problem statements can be improved.
+Dalam kedua contoh diatas, hubungan antara pernyataan permasalahan dengan tantangan jelas. Inilah yang dicari oleh pemilih. Akan tetapi walaupun konten dari pernyataan permasalahan jelas dan efektif, pernyataan permasalahan ini dapat diperbaiki.
 
-#### Making great problem statements (140 char limit)
+#### Membuat Pernyataan Permasalahan Yang Baik (batas 140 karakter)
 
-The problem statement identifies the issue related to the challenge, and offers a solution. It is important to focus on common problems, urgent problems, expensive problems, and frequent problems. Explaining your problem in these terms is crucial to a good proposal so it should be the first thing seen by voters. A good problem statement has four components: the desired outcome, blocking problem, costs of the problem, and the evidence.
+Pernyataan permasalahan mengidentifikasikan hal-hal yang berkaitan dengan tantangan dan sekaligus memberikan solusi. Penting untuk fokus pada masalah yang umum, masalah yang urgent, masalah yang mahal dan masalah yang sering. Menjelaskan permasalahan anda dengan pemahaman barusan adalah komponen penting proposal yang baik, jadi hal ini haruslah hal pertama yang dilihat. Sebuah pernyataan permasalahan mempunyai 4 (empat) komponen; hasil yang diinginkan, masalah yang menghalangi, biaya dari masalah dan bukti.
 
-#### Structure of the problem statement
+#### Struktur dari sebuah pernyataan permasalahan
 
-**Desired outcome:** This paints a picture of the ideal set of circumstances once your solution is accepted.
+**Hasil yang diinginkan:** Ini menggambarkan situasi ideal yang akan terjadi ketika solusi anda diterima.
 
-**Blocking problem:** A concise explanation of the problem preventing this set of circumstances from occurring.
+**Masalah yang membatasi:** Penggambaran masalah dengan jelas yang membuat situasi ideal ini tidak dapat terjadi.
 
-**Costs of the problem:** A summation of both the opportunity and financial costs of the problem to key stakeholders. This helps voters assess how much impact the problem has.
+**Harga dari masalah:**Penjumlahan biaya peluang yang akan tercipta serta biaya yang ditimbulkan dari permasalahan agar disampaikan ke investor kunci. Ini membantu pemilih untuk menilai dampak dari permasalah yang teridentifikasi.
 
-**Evidence:** Support for your position laid out in a detailed plan. Here's an example:
+**Pemaparan bukti:** Bukti tentang pernyataan anda agar dijelaskan dengan detail. Berikut adalah sebuah contoh:
 
 | Statement Component        | Description                                                                 |
 | -------------------------- | --------------------------------------------------------------------------- |
 | *Hasil yang diinginkan*    | Kita ingin membuat transfer uang ke pekerja di Filipina menjadi terjangkau. |
 | *Masalah yang menghalangi* | 11% penduduk Filipina kehilangan uang ketika ada biaya transaksi.           |
 | *Biaya dari permasalahan*  | Sekitar $1 milyar dibayarkan dalam bentuk biaya transaksi secara tahunan.   |
-| *Bukti*                    | Link (s) to data which proves this.                                         |
+| *Bukti*                    | Link(s) menuju data yang membuktikan hal ini.                               |
 
-Here’s the complete problem statement which condenses the information above:
+Berikut pernyataan permasalahan lengkap yang memadatkan informasi diatas:
 
-> “Money transfer to Philippines workers should be affordable. Akan tetapi 11% penduduknya kehilangan sekitar $1 milyar dalam bentuk biaya transaksi tiap tahunnya. Link penelitian \[1\]\[2\]
+> “Uang yang ditransfer ke pekerja Filipina seharusnya terjangkau. Akan tetapi 11% penduduknya kehilangan sekitar $1 milyar dalam bentuk biaya transaksi tiap tahunnya. Link penelitian \[1\]\[2\]
 
 #### In Conclusion
 - State your desired outcome and the problem blocking it
@@ -63,163 +63,163 @@ Here’s the complete problem statement which condenses the information above:
 - Give evidence for your findings
 ### Solution (140 Char limit)
 
-#### Structuring the Solution
+#### Merangkai solusi
 
-So, you only have 140 characters to give a lot of important information. When every character counts, it is important that you address the prompt exactly.
+Jadi anda hanya mempunyai 140 karakter untuk menyediakan banyak informasi penting. Ketika setiap karakter penting, penting untuk menjawab parameter yang ditentukan dengan tepat.
 
-It may sound obvious, but your solution must be based on a known problem. It has to actually solve the problem laid out in the problem statement. A solution in search of a problem is rarely an attractive option because it is less efficient than filling a distinct need. So remember: start with solving a problem and then lay out the vision of your solution in the ‘Plan in Detail’ section. Your 140 characters should address the problem, solve it, and give some insight into how your solution is different from others.
+Mungkin terdengar mudah, tapi solusi anda harus didasari atas satu masalah yang sudah diketahui. Solusi anda harus memecahkan pernyataan permasalahan. Sebuah solusi yang mencari sebuah masalah jarang sekali menarik perhatian karena jauh tidak efisien daripada mencari sebuah masalah untuk dipecahkan. Jadi ingatlah; mulailah dengan memecahkan suatu masalah lalu kemudian jabarkan solusi anda di bagian “Plan in Detail”. 140 karakter sebaiknya mengidentifikasi masalah, memecahkan dan memberikan pandangan perbedaan solusi anda dibandingkan yang lain.
 
-*Example solution statement*
+*Contoh pernyataan permasalahan*
 
 > Create a stakepool operator-run digital magazine maintained on the blockchain to expose Cardano to new audiences outside of current users.
 
-#### In Conclusion
-- Address the problem directly to ensure that your solution rises to the challenge
-- Make your project stand out through differentiation
-- Create a solution that solves a problem instead of one looking for a problem
+#### Kesimpulan
+- Pecahkan masalah dan pastikan solusi anda sesuai dengan tantangan yang diberikan
+- Buatlah proyek anda menyolok lewat pembedaan
+- Ciptakan solusi yang memecahkan masalah daripada mencari sebuah masalah untuk dipecahkan
 ### Relevant Experience (140 Char limit)
 
-#### Find your edge
+#### Temukan keunikan anda
 
-Find your ‘competitive edge’ and ensure you drive it home. We can break down your competitive edge into a couple of different categories. Your solution should include an explanation of as many of these competitive edges as possible. Remember, the people voting on these proposals want to see yours as a ‘sure thing’. If you can clearly explain why you are different from any of the other projects in the blockchain space, then you have a significant competitive advantage.
+Temukan keunikan anda dan pastikan anda membuat hal tersebut menonjol. Keunikan anda dapat dipecahkan menjadi beberapa kategori. Solusi anda sebaiknya berisi penjelasan keunikan anda sebanyak mungkin. Ingat, para pemilih ingin melihat proposal anda adalah sesuatu yang pasti bagus. Jika kamu dapat menjelaskan kenapa anda berbeda dari yang lain, maka anda mempunyai keunggulan dibandingkan yang lain.
 
-#### Founders
+#### Pendiri
 
-The people who are working on your proposal can lend their personal expertise and work history to the project.
+Orang-orang yang bekerjasama dalam proposal dapat menyediakan keahlian dan riwayat kerja untuk membantu kredibilitas proposal.
 
-*Example Experience:*
+*Contoh penyebutan pendiri:*
 
-> John Doe completed his PhD with a focus on incentive schemes for blockchain treasury systems.
-#### In Conclusion
-- Find your competitive edge and make sure that it is well known
-- This might look different for different kinds of projects
-- Remember that your audience is other people on the innovation platform
+> John Doe menyelesaikan PhD. dengan focus pada skema insentif untuk sistem finansial blockchain dengan pengalaman 10 tahun.
+#### Kesimpulan
+- Temukan keunikan anda dan pastikan mudah diketahui
+- Pastikan proposal anda beda
+- Ingat bahwa pembaca proposal adalah orang lain di platform yang sama dengan anda
 
-### Plan In Detail
+### Rencanakan Dengan Detail
 
-#### Differentiate through insight
+#### Beda melalui pengetahuan dan pengalaman ahli
 
-Now that we have outlined the problem and given a solid solution, let’s talk about execution. Different problems require different solutions. We are looking for a wide variety of project ideas from marketing campaigns and educational resources to developer infrastructure improvements and business development
+Karena sudah menjelaskan permasalahan dan memberikan solusi, mari kita bicarakan eksekusi. Masalah yang berbeda membutuhkan solusi yang berbeda. Kita mencari project dengan cakupan yang luas, mulai dari marketing campaign dan sumber edukasi hingga perbaikan infrastructure developer dan pengembangan bisnis.
 
-You should look at your plan as a roadmap and a need analysis. First of all, Why does your solution work? While you may have been the first to identify your problem it is important that you explain why your solution will be the most successful in a field of possible options.
+Anda harus menilai rencana anda selayaknya sebuah buku panduan dan berdasarkan atas sebuah kebutuhan. Pertama-tama, kenapa solusi anda bekerja? Walau anda pertama yang mengidentifikasi masalah, penting anda menjelaskan kenapa solusi anda akan menjadi yang paling sukses di antara semuanya.
 
-#### Market
+#### Rencanakan dan Telitilah Pasar
 
-The market you have identified has not been previously accessed or prioritized. Markets should be identified that have 20 percent growth a year.
+Pasar yang anda identifikasi tidak pernah terakses atau diprioritaskan. Pasar yang teridentifikasi sebaiknya mempunyai pertumbuhan 20% tiap tahunnya.
 
-> *Example:* Our hardware solution works with all proof-of-work blockchains.
+> *Contoh:* Solusi perangkat keras kita bekerja dengan baik dengan semua blockchain berbasis proof-of-work.
 
 #### Product
 
-Your solution works in the market in a particularly impactful way.
+Solusi anda bekerja di pasar dengan cara yang memberikan dampak yang spesifik.
 
-> *Example:* This hardware addition reduces energy consumption of mining rigs by 20 percent.
+> *Contoh:* Penambahan perangkat keras ini mengurangi konsumsi energi mining sebesar 20%.
 
-#### Acquisition
+#### Rencanakan dan Telitilah Akuisisi
 
-Your route to user and platform acquisition is clear and well thought out.
+Jalur anda mengakuisisi pengguna jelas dan sudah dipikirkan matang.
 
-> *Example:*  Access to network information drives user acquisition for no cost
+> *Contoh:*  Akses ke jaringan informasi mendorong akuisisi pengguna tanpa mengeluarkan biaya
 
 #### Monopoly
 
 As you grow in the field your company actually gets stronger.
 
-> *Example:* Using the Ouroboros protocol allows our system to become more secure as decentralization increases.
+> *Contoh:* Dengan menggunakan protokol Ouroboros membuat sistem kita menjadi lebih aman sejalan dengan meningkatnya sistem menjadi desentralisasi.
 
-#### Show us the money
+#### Tunjukkan uangnya
 
-Complex problems often need sufficient funding to be solved. This is understood by the community at Project Catalyst. However, anyone voting on these proposals should be able to know how the funding is being spent. Giving a detailed breakdown of how the budget will be spent. This can come in a variety of ways but distilling your budget into a series of line items is a clear way to show voters that you have considered how major funding initiatives will be spent.
+Masalah kompleks terkadang membutuhkan biaya yang mumpuni agar dapat dipecahkan. Ini dipahami oleh komunitas di Project Catalyst. Akan tetapi, siapapun pemilih sebaiknya dapat mengetahui dana akan terpakai untuk apa. Dengan memberikan laporan mendetail mengenai penggunaan dana. Hal ini dapat tercapai dengan berbagai cara tapi dengan memecah anggaran menjadi beberapa alur adalah contoh nyata yang menunjukkan kepada pemilih bahwa anda memikirkan bagaimana pendanaan dalam jumlah besar digunakan.
 
-It is also important to remember that your budget should meet the requirements of the project you’re setting out to accomplish. If you are trying to gain funding for a small meetup then a couple hundred dollars should be sufficient. If you are coordinating the development of critical infrastructure then you will need more resources. Make sure to pair the vision with the appropriate funding.
+Penting juga untuk diingat bahwa anggaran anda sebaiknya sesuai dengan kebutuhan yang diperlukan proyek itu agar selesai. Jika anda hanya ingin membuat meet-up kecil maka, beberapa ratus dolar sudah cukup. Jika anda mengkoordinasikan pengembangan infrastruktur penting maka anda membutuhkan lebih banyak sumber daya. Pastikan visi anda digandeng dengan anggaran yang tepat.
 
-> *Example:* Creating a developer focused podcast will take $5k in the initial 6 months.
+> *Contoh:* Menciptakan podcast yang fokus pada developer akan membutuhkan biaya $5K untuk waktu 6 bulan.
 
-#### Getting on the road
+#### Peta perkembangan
 
-When building your proposal, you should write as if you will be receiving funding. But it’s important that anyone reading your proposal understands that you will be able to hit the ground running. This is where your roadmap comes in. Your roadmap should break down all of the key milestones you intend to hit once funding is received. This can be done in a couple of different ways, but a good roadmap details your one month, three month, and six month goals.
+Ketika anda membuat proposal, tulislah dengan kerangka berpikir pasti mendapatkan pendanaan. Penting untuk pembaca agar paham ketika pengaju proposal akhirnya melakukan eksekusi proposal maka sudah terbayangkan berjalan dengan lancar dan semestinya. Ini fungsi peta perkembangan. Peta perkembangan sebaiknya merinci tiap titik kritis pencapaian yang ingin dicapai ketika dana sudah turun. Hal ini dapat dilakukan dalam beberapa cara, tapi peta perkembangan yang bagus mendetailkan tujuan satu bulan, 3 bulan dan 6 bulan.
 
-In the roadmap it is also important to identify your key performance indicators (KPIs). These are the goals that you hit which demonstrate that you have been successful. Here are some examples of KPIs:
+Dalam peta perkembangan, penting untuk identifikasi KPI. Ini adalah tujuan yang ingin kalian capai sebagai pertanda anda sukses. Berikut adalah beberapa contoh KPI:
 
-- Users acquired
-- Product capability built
-- Performance benchmark reached
-- Network stability achieved for x amount of time
+- Akuisisi pengguna
+- Kemampuan produk yang dibangun
+- Tolok ukur performa tercapai
+- Stabilitas jaringan tercapai dalam waktu sejumlah X
 
-The important thing to remember about KPIs is that they should have a number attached to them. Acquiring an initial 15 users is an achievable goal. Acquiring ‘a lot’ of users is pretty vague and difficult for anyone to adjudicate. Remember, you are presenting these ideas to the community, the clearer you make your intentions and the easier it is to verify that you have achieved your goals, the more likely it is that you will be seen as a great bet.
+Hal yang perlu diingat tentang KPI bahwa harus ada angka yang mengikuti. Semisal penyebutan; akuisisi pengguna sebanyak 15 orang, adalah tujuan yang mudah tercapai. Contoh penyebutan; akuisisi banyak pengguna, tidak jelas dan sulit untuk dinilai. Ingat, anda mempresentasikan ide ini kepada komunitas, semakin jelas niat anda maka semakin mudah pula untuk mencapai tujuan, yang artinya semakin besar pula pemilih menganggap proposal anda adalah pertaruhan yang tepat.
 
 #### Intellectual Property
 
-Please share with reviewers what is your IP policy (Patents, trademarks, copyright, licensing etc) so they can assess if that is a good fit for the treasury.
+Agar disebutkan juga apa polis IP anda (patent, merek dagang, hak cipta, lisensi, dst.) sehingga bisa dinilai apakah cocok dengan perbendaharaan.
 
-#### Defining Success
+#### Mengartikan kesuksesan
 
-What does success look like for this particular project? While it might not be entirely complete after one round of funding, your proposal should give us an idea of what an end state looks like. This, like your KPIs should be an easily understood number that can be verified by anyone.
+Apakah wajah kesuksesan untuk proposal anda? Mungkin tidak akan tercapai hanya dalam satu ronde pembiayaan, tapi proposal anda sebaiknya memberikan idea tujuan akhirnya terlihat. Seperti KPI, sebaiknya berupa angka yang masuk akal dan mudah diverifikasi oleh siapapun.
 
-#### In Conclusion
+#### Kesimpulan
 
-- Suit the budget and the roadmap to the needs of your project.
-- Establish reachable key performance indicators that show good progress towards your goal.
-- Establish intellectual property rights so that everyone knows who owns what.
-- Define success for your project.
+- Sesuaikan anggaran dan peta perkembangan dengan kebutuhan proposal anda.
+- Tentukan Kpi yang dapat tercapai secara realistis yang menunjukkan progress jelas menuju tujuan anda.
+- Pastikan hak intelektual yang diinginkan sehingga semua paham kepemilikan konten proposal menjadi milik siapa.
+- Jelaskan apa ukuran sukses untuk proposal anda.
 
-### Attachments/links
+### Lampiran/tautan
 
-It is important for everyone to be able to share additional necessary information. That is why PDFs, images and additional URLs can be sent through the Ideascale where they can be viewed by everyone.
+Penting untuk semua orang agar memberikan informasi tambahan. Karena itu PDF, gambar dan tambahan URL dapat diinfokan di Ideascale untuk dilihat oleh semua orang.
 
-### FeedBack
+### Masukkan
 
-#### Community support
+#### Dukungan komunitas
 
-In order to make each individual proposal as strong as possible we encourage everyone to use the innovation platform to discuss each idea. In fact, we’ve created reviewer guidelines to help you direct your critique. For a productive and informative conversation we encourage everyone to focus their feedback on the following areas:
+Agar proposal secara individu sekuat mungkin, kita mendorong semua untuk menggunakan platform Ideascale untuk membahas tiap ide. Bahkan, kita telah menciptakan panduan penilaian agar membantu anda dalam membuat kritik. Agar terjadi diskusi produktif dan informatif, kita mendorong semua agar memberikan masukkan dalam hal:
 
-*Auditability:* What details are missing from the proposal to help reviewers accurately assess the project?
+*Kemampuan bisa diaudit:* Detail apa yang tidak ada dalam proposal yang akan membantu pembaca agar menilai secara akurat proposal anda?
 
-*Impact:* How can the proposal better address the challenge? How can we encourage people to build dApps on Cardano in the next 6 months?
+*Dampak yang akan ditimbulkan:* Bagaimana proposal dapat menjawab tantangan dengan lebih baik? Bagaimana kita dapat mendorong orang agar membangun dApps diatas Cardano dalam waktu 6 (enam) bulan kedepan?
 
-*Feasibility:* What are ways that the proposal’s budget, plan, and scope can be modified in order to make it more achievable.
+*Kelayakan:* Bagaimana cara mengatur budget, rencana dan cakupan proposal dapat di modifikasi agar semakin membuat proposal ini mudah mencapai target.
 
-**Example**
+**Contoh**
 
-> If your marketing initiative gave the exact number of users it was attempting to onboard as a KPI then it would be much easier to track its success.
+> Jika inisiatif marketing anda menghasilkan jumlah pengguna yang sama sesuai dengan angka yang ingin dicapai dalam KPI maka akan sangat mudah untuk mengikuti kesuksesan proposalnya.
 
-#### In conclusion*
+#### Kesimpulan
 
-- Make other proposals stronger by giving good feedback
-- Incorporate useful feedback into your own proposal
-- Participate actively in the innovation process to make sure it continues to grow
-### How To Write a Community Choice Proposal
+- Berikan proposal lain masukkan bagus agar menjadi proposal yang lebih baik
+- Gabungkanlah masukkan bagus kedalam proposal anda
+- Berpartisipasilah secara aktif dalam proses inovasi untuk memastikan tetap tumbuh
+### Bagaimana Cara Menulis Proposal Pilihan Komunitas
 
-#### Emancipating the community
+#### Pemberdayaan komunitas
 
-The purpose of having the Project Catalyst community write their own challenge is to emancipate the platform from the Project Catalyst team. Eventually, the Cardano community will control the innovation and collaboration process from inception to delivery. With that in mind, it is crucial that we understand what an impactful challenge looks like.
+Tujuan komunitas bisa menulis tantangan mereka sendiri adalah untuk memberdayakan platform dari tangan tim Project Catalyst. Pada akhirnya, komunitas Cardano yang akan mengontrol proses inovasi dan kolaborasi dari titik lahir hingga terbentuknya tujuan akhir. Dengan konsep berpikir seperti itu, penting untuk kita pahami seperti apakah tantangan yang berdampak.
 
-#### Focus on advancement
+#### Fokuslah pada kemajuan
 
-The challenge is a question which helps the community focus its creativity on advancing the Cardano ecosystem. Of course, ‘advancement’ means different things to different people. The key to writing an impactful challenge question is balance. It must be broad enough to be addressed in multiple ways, but specific enough to enhance the value of Cardano for everyone.
+Tantangan adalah sebuah pertanyaan yang membantu komunitas agar memfokuskan daya kreatifnya untuk memajukan ekosistem Cardano. Tentunya, “kemajuan” mempunyai banyak makna bagi orang-orang yang berbeda. Kunci menuliskan pertanyaan tantangan yang berdampak adalah keseimbangan. Haruslah cukup luas agar dapat muncul banyak alternatif solusi tapi cukup spesifik untuk mendorong nilai dari Cardano untuk semua.
 
-#### Challenge question examples
+#### Berikut adalah beberapa contoh
 
 Below are a couple examples of challenge questions:
 
-*Too Specific*
+*Tantangan yang terlalu spesifik*
 
-> How can stake pool operators based in southern Europe make their pool more attractive delegators in the next 2 months?
+> Bagaimana cara agar Spo yang berbasis di Eropa Selatan dapat menarik lebih banyak delegator dalam waktu 2 bulan?
 
-This challenge question addresses only stake pool operators in Southern Europe. Cardano is a global ecosystem which allows participation in many different ways. The challenge question should help everyone.
+Tantangan ini hanya mengakomodir Spo di Eropa Selatan. Cardano ada ekosistem global yang mengizinkan partisipasi dalam banyak cara berbeda. Pertanyaan tantangan sebaiknya membantu semua orang.
 
-*Too Broad*
+*Tantangan yang terlalu luas*
 
-> How can we make Cardano more useful?
+> Bagaimana cara agar kita membuat Cardano semakin berguna?
 
-Of course, we want Cardano to be more useful but this challenge doesn’t give the participants any parameters to spark their creativity. Constraints are necessary to help the community address the direct needs of the ecosystem.
+Tentu, kita ingin Cardano menjadi lebih berguna tapi tantangan ini tidak memberikan partisipan parameter apapun yang dapat mengundang pemikiran kreatif. Batasan diperlukan agar komunitas membahas kebutuhan langsung dari ekosistem.
 
-*Just Right*
+*Tantangan yang seimbang*
 
-> How can we encourage entrepreneurs to develop businesses on Cardano in the next six months?
+> Bagaimana kita dapat mendorong entrepreneur untuk mengembangkan bisnis diatas Cardano dalam waktu 6 (enam) bulan kedepan?
 
-This challenge has a time frame and addresses a community which is important to the entire Cardano community. Furthemore, it can be addressed in many different ways through both technical and non-technical contributions. However, writing challenge questions is only one important part of Project Catalyst. Addressing those challenges in a clear and concise manner is also necessary to identifying the most impactful ideas for Project Catalyst.
+Tantangan ini mempunyai kerangka waktu dan memikirkan sebuah komunitas tersendiri yang mempunyai peranan penting untuk keseluruhan komunitas Cardano. Terlebih lagi, ini dapat dicarikan solusi yang berbeda-beda, bisa secara teknis maupun non-teknis. Akan tetapi menulis pertanyaan tantangan hanyalah satu bagian penting dari Project Catalyst. Menjawab tantangan dengan cara yang jelas dan padat juga penting untuk mengidentifikasi ide paling berdampak untuk Project Catalyst.
 
-### Tags
+### Penggunaan tags
 
-Please add tags to your proposal if you are looking for collaborators/advice/implementers.
+Agar ditambahkan tags ke proposal anda bilamana anda mencari pihak untuk diajak kolaborasi atau mencari nasihat atau mencari orang yang bisa membantu implementasi.
