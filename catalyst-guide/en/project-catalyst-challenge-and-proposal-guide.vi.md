@@ -18,21 +18,21 @@ Tên dự án nên thể hiện được sự đổi mới mà bạn đang cố 
 
 #### Nêu ra vấn đề cho thử thách
 
-Mỗi một quỹ sẽ có những thách thức riêng mà các đề xuất sẽ cố gắng giải quyết. Challenges will originally be set by the Project Catalyst team and then opportunities will arise for the community to develop their own. It is crucial that proposals address the challenge directly. Here is an example of a challenge and some problem statements which address it.
+Mỗi một quỹ sẽ có những thách thức riêng mà các đề xuất sẽ cố gắng giải quyết. Các thử thách ban đầu sẽ được đặt ra bởi nhóm dự án Catalyst và sau đó cộng đồng có thể tạo ra các thách thức để phát triển cộng đồng cho riêng mình. Việc dự án giải quyết thách thức một cách trực tiếp là rất quan trọng. Sau đây là một ví dụ về một thách thức và những dự án giải quyết thách thức đó.
 
-**Challenge**
+**Thử thách**
 
-> How can we encourage developers and entrepreneurs to build Dapps and businesses on top of Cardano in the next 6 months?
+> Làm cách nào chúng ta có thể khuyến khích những nhà phát triển phần mềm và những nhà khởi nghiệp xây dựng những ứng dụng và kinh doanh trên nền tảng của Cardano trong vòng 6 tháng tới?
 
-**Problem statements**
+**Vấn đề đặt ra**
 
-> Builders don’t want to deal with the red tape\time cost of securing funding. How do we help Cardano builders streamline proposals?
+> Những nhà đóng góp không muốn đối phó với tình trạng quan liêu\mất thời gian trong việc bảo đảm nguồn vốn. Làm cách nào để giúp những người đóng góp cho Cardano hợp lý hoá các dự án?
 
 > I am trying to solve the problem of bootstrapping decentralized\open finance movement on Cardano before Plutus and Marlowe hit mainnet.
 
-In both of these examples the relationship between the problem statements and the challenge is apparent. This is what voters will be looking for. However, while the content of the problem statements is clear and effective, these problem statements can be improved.
+Trong cả hai ví dụ này thì mối quan hệ giữa các vấn đề và các thách thức thì khá rõ ràng. Đây là những gì mà những người bỏ phiếu đang tìm kiếm. Tuy nhiên, mặc dù nội dung của các vấn đề đặt ra khá rõ ràng và hiệu quả, chúng vẫn có thể được cải thiện.
 
-#### Making great problem statements (140 char limit)
+#### Tạo ra những báo cáo vấn đề tuyệt vời (tối đa 140 kí tự)
 
 The problem statement identifies the issue related to the challenge, and offers a solution. It is important to focus on common problems, urgent problems, expensive problems, and frequent problems. Explaining your problem in these terms is crucial to a good proposal so it should be the first thing seen by voters. A good problem statement has four components: the desired outcome, blocking problem, costs of the problem, and the evidence.
 
