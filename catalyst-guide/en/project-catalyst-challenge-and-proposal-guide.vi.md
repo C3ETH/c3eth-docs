@@ -1,6 +1,6 @@
-# Project Catalyst Challenge and Proposal Guide
+# Thử thách dự án Catalyst và hướng dẫn viết dự án
 
-Project Catalyst is underway and we’re seeing some incredible participation from a wide spectrum of individuals. This is a collaborative process to create a worldwide community innovation project. The problem statement, solution, relevant experience, and funds requested will be displayed in the voting application. This will allow everyone to learn about the initiatives before voting on them.
+Dự án Catalyst đang được tiến hành và chúng tôi nhận thấy số lượng tham gia một cách đáng kinh ngạc từ nhiều cá nhân. Đây là một quá trình hợp tác để tạo ra dự án đổi mới cộng đồng trên toàn thế giới. Những vấn đề, giải pháp, kinh nghiệm liên quan, và số quỹ được yêu cầu sẽ được trình bày trong ứng dụng bỏ phiếu. Điều này sẽ cho phép mọi người tìm hiểu về dự án trước khi bỏ phiếu.
 
 The proposal plans and attachments can be viewed on our innovation platform, hosted by Ideascale, in order to gain an understanding of the details. This all means that we want everyone to feel confident in contributing to the discussion as a whole.
 
