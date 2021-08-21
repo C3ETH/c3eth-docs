@@ -2,23 +2,23 @@
 
 Dự án Catalyst đang được tiến hành và chúng tôi nhận thấy số lượng tham gia một cách đáng kinh ngạc từ nhiều cá nhân. Đây là một quá trình hợp tác để tạo ra dự án đổi mới cộng đồng trên toàn thế giới. Những vấn đề, giải pháp, kinh nghiệm liên quan, và số quỹ được yêu cầu sẽ được trình bày trong ứng dụng bỏ phiếu. Điều này sẽ cho phép mọi người tìm hiểu về dự án trước khi bỏ phiếu.
 
-The proposal plans and attachments can be viewed on our innovation platform, hosted by Ideascale, in order to gain an understanding of the details. This all means that we want everyone to feel confident in contributing to the discussion as a whole.
+Những kế hoạch dự án và những tệp đính kèm có thể được xem trên nền tảng đổi mới của chúng tôi, được chủ trì bởi Ideascale, để người bỏ phiếu có thể biết thêm nhiều thông tin chi tiết. Điều này có nghĩa là chúng tôi mong muốn mọi người đều cảm thấy tự tin khi đóng góp vào cuộc thảo luận.
 
-The quality of the output is dependent on the community’s ability to create and engage with new ideas. To that end, we would like to share a quick guide to writing successful proposals:
+Chất lượng của các dự án sẽ phụ thuộc vào khả năng của cộng đồng trong việc tạo ra và tương tác với những ý tưởng mới. Chính vì vậy, chúng tôi muốn chia sẻ hướng dẫn nhanh để viết được một dự án thành công:
 
-### Proposing a title* (35 char limit)
+### Đề xuất một tiêu đề (tối đa 35 kí tự)
 
-The proposal name should give an indication of the innovation that you are trying to achieve while also grabbing people’s attention. But we want to avoid any slick marketing speak. Just tell your audience what it does and who it is for as clearly as possible. Keep it simple and informative and keep your audience in mind.
+Tên dự án nên thể hiện được sự đổi mới mà bạn đang cố gắng đạt được đồng thời thu hút được sự chú ý từ mọi người. Nhưng chúng tôi muốn tránh những lời quảng cáo quá bóng bẩy. Chỉ cần cho người xem biết được dự án sẽ làm gì và đối tượng của dự án rõ ràng nhất có thể. Hãy làm cho nó đơn giản và đầy đủ thông tin và dễ nhớ với người đọc.
 
-**Example Title:**
+**Tiêu đề ví dụ:**
 
 > Stake pool operator vlog network
 
-### How To Write a Problem Statement (140 Char limit)
+### Cách viết vấn đề dự án (tói đa 140 kí tự)
 
-#### Rising to the challenge
+#### Nêu ra vấn đề cho thử thách
 
-Each fund will have a specific challenge which proposals will attempt to solve. Challenges will originally be set by the Project Catalyst team and then opportunities will arise for the community to develop their own. It is crucial that proposals address the challenge directly. Here is an example of a challenge and some problem statements which address it.
+Mỗi một quỹ sẽ có những thách thức riêng mà các đề xuất sẽ cố gắng giải quyết. Challenges will originally be set by the Project Catalyst team and then opportunities will arise for the community to develop their own. It is crucial that proposals address the challenge directly. Here is an example of a challenge and some problem statements which address it.
 
 **Challenge**
 
