@@ -32,9 +32,9 @@ Mỗi một quỹ sẽ có những thách thức riêng mà các đề xuất s�
 
 Trong cả hai ví dụ này thì mối quan hệ giữa các vấn đề và các thách thức thì khá rõ ràng. Đây là những gì mà những người bỏ phiếu đang tìm kiếm. Tuy nhiên, mặc dù nội dung của các vấn đề đặt ra khá rõ ràng và hiệu quả, chúng vẫn có thể được cải thiện.
 
-#### Tạo ra những báo cáo vấn đề tuyệt vời (tối đa 140 kí tự)
+#### Đưa ra những trình bày về vấn đề tuyệt vời (tối đa 140 kí tự)
 
-The problem statement identifies the issue related to the challenge, and offers a solution. It is important to focus on common problems, urgent problems, expensive problems, and frequent problems. Explaining your problem in these terms is crucial to a good proposal so it should be the first thing seen by voters. A good problem statement has four components: the desired outcome, blocking problem, costs of the problem, and the evidence.
+Những trình bày về vấn đề xác định các vấn đề liên quan đến thách thức, và đề xuất giải pháp. Việc tập trung vào những vấn đề thông thường, vấn đề cấp bách, vấn đề tốn kém, và những vấn đề thường xuyên là rất quan trọng. Việc giải thích những vấn đề trong những quan điểm này là rất quan trọng đối với một dự án tốt cho nên nó nên là thứ đầu tiên được nhìn thấy bởi người bỏ phiếu. Một vấn đề được trình bày tốt cao gồm 4 thành phần: Kết quả mong muốn, những rào cản, chi phí của vấn đề, và những bằng chứng.
 
 #### Structure of the problem statement
 
