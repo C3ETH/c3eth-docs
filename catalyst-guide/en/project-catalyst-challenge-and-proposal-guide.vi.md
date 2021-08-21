@@ -1,6 +1,6 @@
 # Thử thách dự án Catalyst và hướng dẫn viết dự án
 
-Dự án Catalyst đang được tiến hành và chúng tôi nhận thấy số lượng tham gia một cách đáng kinh ngạc từ nhiều cá nhân. Đây là một quá trình hợp tác để tạo ra dự án đổi mới cộng đồng trên toàn thế giới. Những vấn đề, giải pháp, kinh nghiệm liên quan, và số quỹ được yêu cầu sẽ được trình bày trong ứng dụng bỏ phiếu. Điều này sẽ cho phép mọi người tìm hiểu về dự án trước khi bỏ phiếu.
+Dự án Catalyst đang được tiến hành và chúng tôi nhận thấy số lượng tham gia một cách đáng kinh ngạc từ nhiều cá nhân. Đây là một quá trình hợp tác để tạo ra dự án đổi mới cộng đồng trên toàn thế giới. Những phát biểu vấn đề, giải pháp, kinh nghiệm liên quan, và số quỹ được yêu cầu sẽ được trình bày trong ứng dụng bỏ phiếu. Điều này sẽ cho phép mọi người tìm hiểu về dự án trước khi bỏ phiếu.
 
 Những kế hoạch dự án và những tệp đính kèm có thể được xem trên nền tảng đổi mới của chúng tôi, được chủ trì bởi Ideascale, để người bỏ phiếu có thể biết thêm nhiều thông tin chi tiết. Điều này có nghĩa là chúng tôi mong muốn mọi người đều cảm thấy tự tin khi đóng góp vào cuộc thảo luận.
 
@@ -14,7 +14,7 @@ Tên dự án nên thể hiện được sự đổi mới mà bạn đang cố 
 
 > Stake pool operator vlog network
 
-### Cách viết vấn đề dự án (tói đa 140 kí tự)
+### Cách viết một phát biểu vấn đề (tối đa 140 kí tự)
 
 #### Nêu ra vấn đề cho thử thách
 
@@ -36,40 +36,40 @@ Trong cả hai ví dụ này thì mối quan hệ giữa các vấn đề và c�
 
 Những trình bày về vấn đề xác định các vấn đề liên quan đến thách thức, và đề xuất giải pháp. Việc tập trung vào những vấn đề thông thường, vấn đề cấp bách, vấn đề tốn kém, và những vấn đề thường xuyên là rất quan trọng. Việc giải thích những vấn đề trong những quan điểm này là rất quan trọng đối với một dự án tốt cho nên nó nên là thứ đầu tiên được nhìn thấy bởi người bỏ phiếu. Một vấn đề được trình bày tốt cao gồm 4 thành phần: Kết quả mong muốn, những rào cản, chi phí của vấn đề, và những bằng chứng.
 
-#### Structure of the problem statement
+#### Cấu trúc của một phát biểu vấn đề
 
-**Desired outcome:** This paints a picture of the ideal set of circumstances once your solution is accepted.
+**Kết quả mong muốn:** Điều này vẽ lên một bức tranh với những bối cảnh lý tưởng một khi giải pháp của bạn đã được chấp thuận.
 
-**Blocking problem:** A concise explanation of the problem preventing this set of circumstances from occurring.
+**Vấn đề rào cản:**Giải thích ngắn gọn về vấn đề ngăn chặn những trường hợp này xảy ra.
 
-**Costs of the problem:** A summation of both the opportunity and financial costs of the problem to key stakeholders. This helps voters assess how much impact the problem has.
+**Chi phí của vấn đề:** Tóm tắt cả cơ hội và những chi phí tài chính của vấn đề cho những bên liên quan chính. Điều này nhằm giúp cho người bỏ phiếu đánh giá được mức độ ảnh hưởng của vấn đề.
 
-**Evidence:** Support for your position laid out in a detailed plan. Here's an example:
+**Bằng chứng:** Ủng hộ quan điểm của bạn trong một kế hoạch chi tiết. Sau đây là một ví dụ:
 
-| Statement Component    | Description                                                                           |
-| ---------------------- | ------------------------------------------------------------------------------------- |
-| *Desired Outcome*      | We want to make it affordable to transfer money to workers living in the Philippines. |
-| *Blocking problem*     | 11% of the population of the Philippines lose money on transaction fees.              |
-| *Costs of the problem* | Around $1 billion is paid in transfer fees annually.                                  |
-| *Evidence*             | Link (s) to data which proves this.                                                   |
+| Thành phần tuyên bố  | Mô tả                                                                             |
+| -------------------- | --------------------------------------------------------------------------------- |
+| *Kết quả mong muốn*  | Chúng tôi muốn chuyển tiền cho người lao động sống ở Philippines một cách hợp lý. |
+| *Vấn đề rào cản*     | 11% dân số Philippines mất tiền vào phí giao dịch.                                |
+| *Chi phí của vấn đề* | Khoảng 1 tỷ Đô la được chi trả cho chi phí chuyển tiền hằng năm.                  |
+| *Bằng chứng*         | Những liên kết đến số liệu chứng minh vấn đề này.                                 |
 
-Here’s the complete problem statement which condenses the information above:
+Sau đây là một báo cáo vấn đề hoàn chỉnh được cô đọng từ những thông tin trên:
 
-> “Money transfer to Philippines workers should be affordable. However, 11% of the population are losing 1B$ in transaction fees per year. Research links [1],[2]“
+> "Tiền chuyển đến người lao động ở Philippines nên có giá cả hợp lí. Tuy nhiên, 11% dân số đang mất 1 tỷ Đô cho chi phí chuyển tiền hằng năm. Đường link nghiên cứu [1], [2]"
 
-#### In Conclusion
-- State your desired outcome and the problem blocking it
-- Define the cost of the problem
-- Give evidence for your findings
-### Solution (140 Char limit)
+#### Kết luận
+- Vạch ra kết quả mong muốn đạt được và những rào cản của nó
+- Xác định được chi phí của vấn đề
+- Đưa ra bằng chứng cho những phát hiện của bạn
+### Giải pháp (Tối đa 140 kí tự)
 
-#### Structuring the Solution
+#### Cấu trúc cho giải pháp
 
-So, you only have 140 characters to give a lot of important information. When every character counts, it is important that you address the prompt exactly.
+Bạn chỉ có 140 kí tự để trình bày rất nhiều thông tin quan trọng. Khi mỗi kí tự được tính, việc bạn trình bày ngắn gọn một cách chính xác là rất quan trọng.
 
-It may sound obvious, but your solution must be based on a known problem. It has to actually solve the problem laid out in the problem statement. A solution in search of a problem is rarely an attractive option because it is less efficient than filling a distinct need. So remember: start with solving a problem and then lay out the vision of your solution in the ‘Plan in Detail’ section. Your 140 characters should address the problem, solve it, and give some insight into how your solution is different from others.
+Điều này nghe có vẻ hiển nhiên, nhưng giải pháp của bạn phải dựa trên một vấn đề đã được biết đến. Nó phải thực sự giải quyết được vấn đề đã được nêu ra trong phần trình bày vấn đề. Một giải pháp tìm kiếm một vấn đề hiếm khi là một lựa chọn hấp dẫn vì nó kém hiệu quả hơn so với việc đáp ứng một nhu cầu riêng biệt. Cho nên hãy nhớ rằng: bắt đầu với việc giải quyết một vấn đề và say đó trình bày tầm nhìn vấn đề của bạn trong mục 'Kế hoạch chi tiết'. 140 ký tự của bạn nên trình bày rõ vấn đề, giải quyết nó, và cung cấp một số thông tin chi tiết về việc giải pháp của bạn khác những giải pháp khác như thế nào.
 
-*Example solution statement*
+*Ví dụ về giải pháp*
 
 > Create a stakepool operator-run digital magazine maintained on the blockchain to expose Cardano to new audiences outside of current users.
 
