@@ -1,105 +1,105 @@
-# Project Catalyst Challenge and Proposal Guide
+# ProjectCatalyst チャレンジ設定および提案ガイド
 
-Project Catalyst is underway and we’re seeing some incredible participation from a wide spectrum of individuals. This is a collaborative process to create a worldwide community innovation project. The problem statement, solution, relevant experience, and funds requested will be displayed in the voting application. This will allow everyone to learn about the initiatives before voting on them.
+ProjectCatalystは進行中であり、幅広い個人からの信じられないほどの参加が見られます。 これは、世界規模のコミュニティイノベーションプロジェクトを作成するための共同プロセスです。 問題の説明、解決策、関連する経験、および要求された資金は、投票アプリケーションに表示されます。 これにより、誰もが投票する前にイニシアチブについて学ぶことができます。
 
-The proposal plans and attachments can be viewed on our innovation platform, hosted by Ideascale, in order to gain an understanding of the details. This all means that we want everyone to feel confident in contributing to the discussion as a whole.
+提案の計画と添付ファイルは、詳細を理解するために、Ideascaleがホストするイノベーションプラットフォームで表示できます。 私たち全員が議論全体に参加できます。
 
-The quality of the output is dependent on the community’s ability to create and engage with new ideas. To that end, we would like to share a quick guide to writing successful proposals:
+アウトプットの品質は、新しいアイデアを作成して関与するコミュニティの能力に依存します。 そのために、成功する提案を書くためのクイックガイドを共有したいと思います:
 
-### Proposing a title* (35 char limit)
+### 提案のタイトル （35文字の制限）
 
-The proposal name should give an indication of the innovation that you are trying to achieve while also grabbing people’s attention. But we want to avoid any slick marketing speak. Just tell your audience what it does and who it is for as clearly as possible. Keep it simple and informative and keep your audience in mind.
+提案名は、人々の注目を集めながら、達成しようとしているイノベーションを示すものでなければなりません。 しかし、私たちは巧妙なマーケティングの話を避けたいと思っています。 それが何をするのか、そしてそれが誰のためであるのかをできるだけ明確に聴衆に伝えてください。 シンプルで有益な情報を提供し、視聴者を念頭に置いてください。
 
-**Example Title:**
+**例**
 
-> Stake pool operator vlog network
+> ステークプールオペレータビデオブログネットワーク
 
-### How To Write a Problem Statement (140 Char limit)
+### プログラムステートメントの書き方（140文字の制限）
 
-#### Rising to the challenge
+#### 挑戦に立ち向かう
 
-Each fund will have a specific challenge which proposals will attempt to solve. Challenges will originally be set by the Project Catalyst team and then opportunities will arise for the community to develop their own. It is crucial that proposals address the challenge directly. Here is an example of a challenge and some problem statements which address it.
+各ファンドには、提案が解決しようとする特定の課題があります。 題は元々ProjectCatalystチームによって設定され、その後コミュニティが独自に開発する機会が生じます。 提案が課題に直接取り組むことが重要です。 これは、課題の例とそれに対処するいくつかの問題ステートメントです。
 
-**Challenge**
+**チャレンジ**
 
-> How can we encourage developers and entrepreneurs to build Dapps and businesses on top of Cardano in the next 6 months?
+> 開発者や起業家に、今後6か月以内にカルダノの上にDappやビジネスを構築するように促すにはどうすればよいでしょうか。
 
-**Problem statements**
+**プログラムステートメント**
 
-> Builders don’t want to deal with the red tape\time cost of securing funding. How do we help Cardano builders streamline proposals?
+> 開発者は、資金を確保するための官僚的形式主義と時間のコストに対処することを望んでいません。 Cardano開発者が提案を合理化するのをどのように支援しますか？
 
-> I am trying to solve the problem of bootstrapping decentralized\open finance movement on Cardano before Plutus and Marlowe hit mainnet.
+> PlutusとMarloweがメインネットにヒットする前に、Cardanoで分散型/オープンファイナンスの動きをブートストラップする時の問題を解決しようとしています。
 
-In both of these examples the relationship between the problem statements and the challenge is apparent. This is what voters will be looking for. However, while the content of the problem statements is clear and effective, these problem statements can be improved.
+これらの例の両方で、問題ステートメントと課題の関係は明らかです。これは投票者が探しているものです。 これは投票者が探しているものです。 ただし、問題ステートメントの内容は明確で効果的ですが、これらの問題ステートメントは改善できます。
 
-#### Making great problem statements (140 char limit)
+#### 優れたプログラムステートメントの作成（140文字の制限）
 
-The problem statement identifies the issue related to the challenge, and offers a solution. It is important to focus on common problems, urgent problems, expensive problems, and frequent problems. Explaining your problem in these terms is crucial to a good proposal so it should be the first thing seen by voters. A good problem statement has four components: the desired outcome, blocking problem, costs of the problem, and the evidence.
+プログラムステートメントは、チャレンジに関連する問題を特定し、解決策を提供します。 一般的な問題、緊急の問題、費用のかかる問題、頻繁な問題に焦点を当てることが重要です。 これらの用語であなたの問題を説明することは良い提案にとって重要なので、それは投票者によって最初に見られるべきです。 優れた問題ステートメントには、望ましい結果、理想的な結果を妨げる問題、問題のコスト、および証拠の4つの要素があります。
 
-#### Structure of the problem statement
+#### プログラムステートメントの構造
 
-**Desired outcome:** This paints a picture of the ideal set of circumstances once your solution is accepted.
+**望ましい結果:** これは、ソリューションが受け入れられた後の理想的な一連の状況の全体像を描きます。
 
-**Blocking problem:** A concise explanation of the problem preventing this set of circumstances from occurring.
+**理想的な結果を妨げる問題:** この一連の状況の発生を妨げる問題の簡潔な説明。
 
-**Costs of the problem:** A summation of both the opportunity and financial costs of the problem to key stakeholders. This helps voters assess how much impact the problem has.
+**問題の費用:** 主要な利害関係者に対する問題の機会と経済的コストの両方の合計。 これは、有権者が問題がどの程度の影響を及ぼしているかを評価するのに役立ちます。
 
-**Evidence:** Support for your position laid out in a detailed plan. Here's an example:
+**証拠:** 詳細な計画に記載された立場のサポート。 例えば
 
-| Statement Component    | Description                                                                           |
-| ---------------------- | ------------------------------------------------------------------------------------- |
-| *Desired Outcome*      | We want to make it affordable to transfer money to workers living in the Philippines. |
-| *Blocking problem*     | 11% of the population of the Philippines lose money on transaction fees.              |
-| *Costs of the problem* | Around $1 billion is paid in transfer fees annually.                                  |
-| *Evidence*             | Link (s) to data which proves this.                                                   |
+| ステートメントコンポーネント | 説明                                 |
+| -------------- | ---------------------------------- |
+| *望ましい成果*       | フィリピン在住の労働者にお金を送金できるようにしたいと考えています。 |
+| *理想的な結果を妨げる問題* | フィリピンの人口の11％が取引手数料でお金を失っています。      |
+| *問題のコスト*       | 約10億ドルが毎年送金手数料で支払われます。             |
+| *証拠*           | これを証明するデータへのリンク                    |
 
-Here’s the complete problem statement which condenses the information above:
+上記の情報を凝縮した完全な問題ステートメントは次のとおりです。
 
-> “Money transfer to Philippines workers should be affordable. However, 11% of the population are losing 1B$ in transaction fees per year. Research links [1],[2]“
+> フィリピンの労働者への送金は手頃な価格である必要があります。 しかし、人口の11％が年間10億ドルの取引手数料を失っています。 リサーチリンク [1],[2]
 
-#### In Conclusion
-- State your desired outcome and the problem blocking it
-- Define the cost of the problem
-- Give evidence for your findings
-### Solution (140 Char limit)
+#### 結論
+- 望ましい結果とそれを妨げる問題を明記します
+- 問題のコストを定義します
+- 証拠を提示します
+### 解決策（140文字の制限）
 
-#### Structuring the Solution
+#### ソリューションの構造化
 
-So, you only have 140 characters to give a lot of important information. When every character counts, it is important that you address the prompt exactly.
+多くの重要な情報を提供するのに140文字しかありません。 すべての文字が重要な場合は、プロンプトに正確に対処することが重要です。
 
-It may sound obvious, but your solution must be based on a known problem. It has to actually solve the problem laid out in the problem statement. A solution in search of a problem is rarely an attractive option because it is less efficient than filling a distinct need. So remember: start with solving a problem and then lay out the vision of your solution in the ‘Plan in Detail’ section. Your 140 characters should address the problem, solve it, and give some insight into how your solution is different from others.
+当たり前のように聞こえるかもしれませんが、解決策は既知の問題に基づいている必要があります。 問題ステートメントに記載されている問題を実際に解決する必要があります。 問題を探す解決策は、明確なニーズを満たすよりも効率が悪いため、魅力的な選択肢になることはめったにありません。 したがって、覚えておいてください。問題を解決することから始めて、「詳細な計画」セクションでソリューションのビジョンをレイアウトします。  140文字で問題に対処し、解決し、ソリューションが他のソリューションとどのように異なるかについての洞察を与える必要があります。
 
-*Example solution statement*
+*ソリューションステートメントの例*
 
-> Create a stakepool operator-run digital magazine maintained on the blockchain to expose Cardano to new audiences outside of current users.
+> ブロックチェーン上に維持されているステークプールオペレーターが運営するデジタルマガジンを作成して、現在のユーザー以外の新しいオーディエンスにCardanoを広めます。
 
-#### In Conclusion
-- Address the problem directly to ensure that your solution rises to the challenge
-- Make your project stand out through differentiation
-- Create a solution that solves a problem instead of one looking for a problem
-### Relevant Experience (140 Char limit)
+#### 結論
+- 問題に直接対処して、ソリューションが課題に直面することを確認します
+- 差別化を通じてプロジェクトを際立たせる
+- 問題を探すのではなく、問題を解決するソリューションを作成します
+### 関連する経験 （140文字の制限）
 
-#### Find your edge
+#### あなたのエッジを見つけて
 
-Find your ‘competitive edge’ and ensure you drive it home. We can break down your competitive edge into a couple of different categories. Your solution should include an explanation of as many of these competitive edges as possible. Remember, the people voting on these proposals want to see yours as a ‘sure thing’. If you can clearly explain why you are different from any of the other projects in the blockchain space, then you have a significant competitive advantage.
+あなたの「競争力」を見つけて、あなたが持っていることを確実にしてください。 私たちはあなたの競争力をいくつかの異なるカテゴリーに分類することができます。 ソリューションには、これらの競争力を可能な限り多く説明する必要があります。 これらの提案に投票する人々は、あなたの提案を「確かだ」ということを確認したいと思っていることを忘れないでください。 ブロックチェーンスペースの他のプロジェクトとの違いを明確に説明できれば、競争上の大きなアドバンテージが得られます。
 
-#### Founders
+#### 創設者
 
-The people who are working on your proposal can lend their personal expertise and work history to the project.
+あなたの提案に取り組んでいる人々は、彼らの個人的な専門知識と仕事の歴史をプロジェクトに貸すことができます。
 
-*Example Experience:*
+*例*
 
-> John Doe completed his PhD with a focus on incentive schemes for blockchain treasury systems.
-#### In Conclusion
-- Find your competitive edge and make sure that it is well known
-- This might look different for different kinds of projects
-- Remember that your audience is other people on the innovation platform
+> John Doeは、ブロックチェーントレジャリーシステムのインセンティブスキームに焦点を当てて博士号を取得しました。
+#### 結論
+- あなたの競争力を見つけて、それがよく知られていることを確認してください
+- これは、プロジェクトの種類によって異なる場合があります
+- あなたの聴衆はイノベーションプラットフォーム上の他の人々であることを忘れないでください
 
-### Plan In Detail
+### 詳細な計画
 
-#### Differentiate through insight
+#### 洞察を通じて差別化する
 
-Now that we have outlined the problem and given a solid solution, let’s talk about execution. Different problems require different solutions. We are looking for a wide variety of project ideas from marketing campaigns and educational resources to developer infrastructure improvements and business development
+問題の概要を説明し、確実な解決策を示したので、実行について説明しましょう。 Different problems require different solutions. We are looking for a wide variety of project ideas from marketing campaigns and educational resources to developer infrastructure improvements and business development
 
 You should look at your plan as a roadmap and a need analysis. First of all, Why does your solution work? While you may have been the first to identify your problem it is important that you explain why your solution will be the most successful in a field of possible options.
 
