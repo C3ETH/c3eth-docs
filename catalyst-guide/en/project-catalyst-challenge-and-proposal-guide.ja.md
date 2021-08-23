@@ -99,127 +99,127 @@ ProjectCatalystは進行中であり、幅広い個人からの信じられな�
 
 #### 洞察を通じて差別化する
 
-問題の概要を説明し、確実な解決策を示したので、実行について説明しましょう。 Different problems require different solutions. We are looking for a wide variety of project ideas from marketing campaigns and educational resources to developer infrastructure improvements and business development
+問題の概要を説明し、確実な解決策を示したので、実行について説明しましょう。 問題が異なれば、解決策も異なります。 マーケティングキャンペーンや教育リソースから、開発者のインフラストラクチャの改善や事業開発まで、さまざまなプロジェクトのアイデアを探しています。
 
-You should look at your plan as a roadmap and a need analysis. First of all, Why does your solution work? While you may have been the first to identify your problem it is important that you explain why your solution will be the most successful in a field of possible options.
+計画をロードマップおよびニーズ分析として検討する必要があります。 まず第一に、なぜあなたのソリューションは機能するのですか？ 問題を最初に特定したのはあなたかもしれませんが、考えられる選択肢の分野でソリューションが最も成功する理由を説明することが重要です。
 
-#### Market
+#### 市場
 
-The market you have identified has not been previously accessed or prioritized. Markets should be identified that have 20 percent growth a year.
+あなたが特定した市場は、以前にアクセスまたは優先順位付けされていません。 年間20％の成長を遂げている市場を特定する必要があります。
 
-> *Example:* Our hardware solution works with all proof-of-work blockchains.
+> *例:* 当社のハードウェアソリューションは、すべてのプルーフオブワークブロックチェーンで機能します。
 
-#### Product
+#### 製品
 
-Your solution works in the market in a particularly impactful way.
+ソリューションは、市場で特に影響力のある方法で機能します。
 
-> *Example:* This hardware addition reduces energy consumption of mining rigs by 20 percent.
+> *例:* このハードウェアの追加により、マイニングリグのエネルギー消費が20％削減されます。
 
-#### Acquisition
+#### 買収
 
-Your route to user and platform acquisition is clear and well thought out.
+ユーザーとプラットフォームの買収への道筋は明確でよく考えられています。
 
-> *Example:*  Access to network information drives user acquisition for no cost
+> *例:*  ネットワーク情報へのアクセスは、無料でユーザー獲得を促進します。
 
-#### Monopoly
+#### 独占
 
-As you grow in the field your company actually gets stronger.
+フィールドで成長するにつれて、会社は実際に強くなります。
 
-> *Example:* Using the Ouroboros protocol allows our system to become more secure as decentralization increases.
+> *例:* Ouroborosプロトコルを使用すると、分散化が進むにつれてシステムの安全性が高まります。
 
-#### Show us the money
+#### 資金計画と根拠を示して
 
-Complex problems often need sufficient funding to be solved. This is understood by the community at Project Catalyst. However, anyone voting on these proposals should be able to know how the funding is being spent. Giving a detailed breakdown of how the budget will be spent. This can come in a variety of ways but distilling your budget into a series of line items is a clear way to show voters that you have considered how major funding initiatives will be spent.
+複雑な問題を解決するには、多くの場合、十分な資金が必要です。 これは、ProjectCatalystのコミュニティによって理解されています。 ただし、これらの提案に投票する人は誰でも、資金がどのように使われているかを知ることができるはずです。 算がどのように使われるかについての詳細な内訳を与える。 これにはさまざまな方法がありますが、予算を一連の項目にまとめることは、主要な資金調達イニシアチブがどのように使われるかを検討したことを有権者に示す明確な方法です。
 
-It is also important to remember that your budget should meet the requirements of the project you’re setting out to accomplish. If you are trying to gain funding for a small meetup then a couple hundred dollars should be sufficient. If you are coordinating the development of critical infrastructure then you will need more resources. Make sure to pair the vision with the appropriate funding.
+予算は、達成しようとしているプロジェクトの要件を満たす必要があることを覚えておくことも重要です。 あなたが小さな交流会のために資金を得ようとしているなら、数百ドルで十分なはずです。 重要なインフラストラクチャの開発を調整している場合は、より多くのリソースが必要になります。 ビジョンと適切な資金を組み合わせてください。
 
-> *Example:* Creating a developer focused podcast will take $5k in the initial 6 months.
+> *例:* 開発者向けのポッドキャストを作成するには、最初の6か月で5,000ドルかかります。
 
-#### Getting on the road
+#### ロードマップを示して
 
-When building your proposal, you should write as if you will be receiving funding. But it’s important that anyone reading your proposal understands that you will be able to hit the ground running. This is where your roadmap comes in. Your roadmap should break down all of the key milestones you intend to hit once funding is received. This can be done in a couple of different ways, but a good roadmap details your one month, three month, and six month goals.
+提案を作成するとき、あなたはあなたが資金を受け取るであろうかのように書くべきです。 しかし、あなたの提案を読んでいる人は誰でも、あなたが着実に実行できることを理解することが重要です。 これがロードマップの出番です。 ロードマップは、資金を受け取った後、達成しようとしている主要なマイルストーンをすべて分解する必要があります。 れはいくつかの異なる方法で行うことができますが、適切なロードマップには、1か月、3か月、および6か月の目標が詳しく説明されています。
 
-In the roadmap it is also important to identify your key performance indicators (KPIs). These are the goals that you hit which demonstrate that you have been successful. Here are some examples of KPIs:
+ロードマップでは、主要業績評価指標（KPI）を特定することも重要です。 これらはあなたが成功したことを示すあなたが達成した目標です。 KPIの例を次に示します。
 
-- Users acquired
-- Product capability built
-- Performance benchmark reached
-- Network stability achieved for x amount of time
+- 取得したユーザー
+- 構築された製品機
+- パフォーマンスベンチマークに達しました
+- x時間にわたって達成されたネットワークの安定性
 
-The important thing to remember about KPIs is that they should have a number attached to them. Acquiring an initial 15 users is an achievable goal. Acquiring ‘a lot’ of users is pretty vague and difficult for anyone to adjudicate. Remember, you are presenting these ideas to the community, the clearer you make your intentions and the easier it is to verify that you have achieved your goals, the more likely it is that you will be seen as a great bet.
+KPIについて覚えておくべき重要なことは、KPIに数値を付ける必要があるということです。 最初の15人のユーザーを獲得することは、達成可能な目標です。 「多くの」ユーザーを獲得することはかなり曖昧であり、誰もが判断するのは困難です。 これらのアイデアをコミュニティに提示していることを忘れないでください。意図が明確になり、目標を達成したことを確認しやすくなるほど、大きな賭けと見なされる可能性が高くなります。
 
-#### Intellectual Property
+#### 知的財産権
 
-Please share with reviewers what is your IP policy (Patents, trademarks, copyright, licensing etc) so they can assess if that is a good fit for the treasury.
+あなたのIPポリシー（特許、商標、著作権、ライセンスなど）をレビューアと共有して、それがトレジャリー資金利用に適しているかどうかを評価できるようにしてください。
 
-#### Defining Success
+#### 成功の定義
 
-What does success look like for this particular project? While it might not be entirely complete after one round of funding, your proposal should give us an idea of what an end state looks like. This, like your KPIs should be an easily understood number that can be verified by anyone.
+この特定のプロジェクトの成功はどのように見えますか？ 1回の資金提供で完全に完成するわけではないかもしれませんが、あなたの提案は、最終状態がどのように見えるかについてのアイデアを私たちに与えるはずです。 これは、KPIと同様に、誰でも確認できるわかりやすい数値ある必要があります。
 
-#### In Conclusion
+#### 結論
 
-- Suit the budget and the roadmap to the needs of your project.
-- Establish reachable key performance indicators that show good progress towards your goal.
-- Establish intellectual property rights so that everyone knows who owns what.
-- Define success for your project.
+- プロジェクトのニーズに合わせて予算とロードマップを調整します
+- 目標に向けて順調に進んでいることを示す、到達可能な主要業績評価指標を確立します。
+- 誰が何を所有しているのかを誰もが知ることができるように、知的財産権を確立します。
+- プロジェクトの成功を定義します。
 
-### Attachments/links
+### 添付ファイル/リンク
 
-It is important for everyone to be able to share additional necessary information. That is why PDFs, images and additional URLs can be sent through the Ideascale where they can be viewed by everyone.
+誰もが追加の必要な情報を共有できることが重要です。 そのため、PDF、画像、および追加のURLをIdeascaleを介して送信でき、それは誰でも見ることができます。
 
-### FeedBack
+### フィードバック
 
-#### Community support
+#### コミュニティサポート
 
-In order to make each individual proposal as strong as possible we encourage everyone to use the innovation platform to discuss each idea. In fact, we’ve created reviewer guidelines to help you direct your critique. For a productive and informative conversation we encourage everyone to focus their feedback on the following areas:
+個々の提案を可能な限り強力にするために、イノベーションプラットフォームを使用して各アイデアについて話し合うことをお勧めします。 実際、批評を導くのに役立つレビューアガイドラインを作成しました。 生産的で有益な会話のために、以下の分野にフィードバックを集中することをお勧めします。
 
-*Auditability:* What details are missing from the proposal to help reviewers accurately assess the project?
+*監査可能性:* レビュー担当者がプロジェクトを正確に評価するのに役立つ、提案に欠けている詳細は何ですか？
 
-*Impact:* How can the proposal better address the challenge? How can we encourage people to build dApps on Cardano in the next 6 months?
+*インパクト:* 提案はどのようにして課題にうまく対処できますか？ 今後6か月以内にカルダノでdAppを構築するように人々をどのように奨励できますか？
 
-*Feasibility:* What are ways that the proposal’s budget, plan, and scope can be modified in order to make it more achievable.
+*実現可能性:* 提案の予算、計画、および範囲を変更して、より達成可能にする方法は何ですか？
 
-**Example**
+**例**
 
-> If your marketing initiative gave the exact number of users it was attempting to onboard as a KPI then it would be much easier to track its success.
+> もしあなたのマーケティングイニシアチブがKPIとしてオンボーディングしようとした正確な数のユーザーを示してもらえると、その成功を追跡するのがはるかに簡単になります。
 
-#### In conclusion*
+#### 結論*
 
-- Make other proposals stronger by giving good feedback
-- Incorporate useful feedback into your own proposal
-- Participate actively in the innovation process to make sure it continues to grow
-### How To Write a Community Choice Proposal
+- 良いフィードバックを提供することにより、他の提案をより強力にします
+- 有用なフィードバックを独自の提案に組み込む
+- イノベーションプロセスに積極的に参加して、それが成長し続けることを確認しま
+### コミュニティ選択提案の書き方
 
-#### Emancipating the community
+#### コミュニティの解放
 
-The purpose of having the Project Catalyst community write their own challenge is to emancipate the platform from the Project Catalyst team. Eventually, the Cardano community will control the innovation and collaboration process from inception to delivery. With that in mind, it is crucial that we understand what an impactful challenge looks like.
+Project Catalystコミュニティに独自のチャレンジを書かせることの目的は、ProjectCatalystチームからプラットフォームを解放することです。 最終的に、Cardanoコミュニティは、開始から提供までのイノベーションとコラボレーションのプロセスを制御します。 そのことを念頭に置いて、影響力のあるチャレンジがどのようであるか理解することが重要です。
 
-#### Focus on advancement
+#### 進歩に焦点を当てる
 
-The challenge is a question which helps the community focus its creativity on advancing the Cardano ecosystem. Of course, ‘advancement’ means different things to different people. The key to writing an impactful challenge question is balance. It must be broad enough to be addressed in multiple ways, but specific enough to enhance the value of Cardano for everyone.
+チャレンジは、コミュニティがカルダノエコシステムの推進に創造性を集中させるのに役立つ問いです。 もちろん、「進歩」とは、人によって異なることを意味します。 インパクトのあるチャレンジを書くための鍵はバランスです。 それは、複数の方法で対処されるような十分な大きさである必要がありますが、すべての人にとってのCardanoの価値を高めるのに十分具体的である必要があります。
 
-#### Challenge question examples
+#### チャレンジ質問の例
 
-Below are a couple examples of challenge questions:
+以下は、チャレンジの質問のいくつかの例です。
 
-*Too Specific*
+*具体的すぎる*
 
-> How can stake pool operators based in southern Europe make their pool more attractive delegators in the next 2 months?
+> 南ヨーロッパに拠点を置くステークプールオペレーターは、今後2か月でプールをより魅力的な委任者にするにはどうすればよいでしょうか。
 
-This challenge question addresses only stake pool operators in Southern Europe. Cardano is a global ecosystem which allows participation in many different ways. The challenge question should help everyone.
+このチャレンジ質問は、南ヨーロッパのステークプールオペレーターのみを対象としています。 Cardanoは、さまざまな方法で参加できるグローバルエコシステムです。 チャレンジの問いすべての人に役立つべきです。
 
-*Too Broad*
+*広すぎる*
 
-> How can we make Cardano more useful?
+> カルダノをもっと便利にするにはどうすればよいですか？
 
-Of course, we want Cardano to be more useful but this challenge doesn’t give the participants any parameters to spark their creativity. Constraints are necessary to help the community address the direct needs of the ecosystem.
+もちろん、私たちはカルダノをもっと便利にしたいと思っていますが、この挑戦​​は参加者に彼らの創造性を刺激するためのパラメーターを与えません。 コミュニティが生態系の直接のニーズに対処するのを助けるために制約が必要です。
 
-*Just Right*
+*ちょうどいい*
 
-> How can we encourage entrepreneurs to develop businesses on Cardano in the next six months?
+> 次の6か月で、起業家にカルダノでビジネスを展開するように促すにはどうすればよいでしょうか。
 
-This challenge has a time frame and addresses a community which is important to the entire Cardano community. Furthemore, it can be addressed in many different ways through both technical and non-technical contributions. However, writing challenge questions is only one important part of Project Catalyst. Addressing those challenges in a clear and concise manner is also necessary to identifying the most impactful ideas for Project Catalyst.
+この課題には時間枠があり、Cardanoコミュニティ全体にとって重要なコミュニティに対処します。 さらに、技術的貢献と非技術的貢献の両方を通じて、さまざまな方法で対処できます。 ただし、チャレンジの問いを書くことは、ProjectCatalystの重要な部分の1つにすぎません。 Project Catalystの最も影響力のあるアイデアを特定するには、これらの課題に明確かつ簡潔に対処することも必要です。
 
-### Tags
+### タグ
 
-Please add tags to your proposal if you are looking for collaborators/advice/implementers.
+共同編集者/アドバイス/実装者を探している場合は、提案にタグを追加してください。
