@@ -1,37 +1,37 @@
-# C3ETH Documents
+# C3ETH ドキュメント
 
-Primary working repository for C3ETH's Documents.
-## Table of Contents
+C3ETHのドキュメント用の主要な作業リポジトリ
+## 目次
 
-- [C3ETH Documents](#c3eth-documents)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Change Log](#change-log)
-  - [Acknowledgements](#acknowledgements)
-  - [Contributors ✨](#contributors-)
-  - [License](#license)
+- [C3ETH ドキュメント](#c3eth-documents)
+  - [目次](#table-of-contents)
+  - [はじめに](#introduction)
+  - [変更履歴](#change-log)
+  - [謝辞](#acknowledgements)
+  - [貢献者 ✨](#contributors-)
+  - [ライセンス](#license)
 
-## Introduction
+## はじめに
 
 TBD
 
-## Change Log
+## 変更履歴
 
-See [CHANGELOG.md](CHANGELOG.md) for notable changes and versions.
+注目すべき変更とバージョンについては、 [CHANGELOG.md](CHANGELOG.md) を参照してください。
 
-## Acknowledgements
+## 謝辞
 
-* [Project Catalyst](https://cardano.ideascale.com/)
+* [プロジェクト Catalyst](https://cardano.ideascale.com/)
 * [Catalyst Swarm](https://www.swarm4catalyst.com/)
 * [Catalyst School]()
-* [IOHK Project Catalyst Team](https://iohk.io/)
+* [IOHKのプロジェクトCatalyst チーム](https://iohk.io/)
 
-## Contributors ✨
+## 貢献者 ✨
 
-Thanks goes to these wonderful contributors (see [emoji key](https://allcontributors.org/docs/en/emoji-key)):
+これらの素晴らしい貢献者に感謝します ( [絵文字キー](https://allcontributors.org/docs/en/emoji-key) を参照):
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![すべての貢献者](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -50,12 +50,12 @@ Thanks goes to these wonderful contributors (see [emoji key](https://allcontribu
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+このプロジェクトは [all-contributors](https://github.com/all-contributors/all-contributors) の仕様に従います。 どんな種類の貢献でも歓迎です!
 
-## License
+## ライセンス
 
-The documentation repository `c3eth\c3eth-docs` is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+ドキュメンテーションリポジトリ `c3eth\c3eth-docs` は [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)に基づいてライセンスされています。
 
-You are free to Share (copy and redistribute) the material in any medium or format adapt, remix, transform, and build upon the material. You may not use the material for commercial purposes.  If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. No warranties are given. The license may not give you all of the permissions necessary for your intended use.
+無料でリミックス、変換、組み立てなど、あらゆる媒体またはフォーマット で共有(コピー、再配布)することができます。 これらの素材を商業目的で使用することはできません。  リミックス、変換、またはビルドする場合は、オリジナルと同じライセンスの下でコントリビューションを配布する必要があります。 保証はありません。 本ライセンスは、お客様が使用するために必要なすべての許可を与えるものではありません。
 
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+ライセンサーは、お客様がライセンス条項に従っている限り、これらの自由を取り消すことは出来ません。
