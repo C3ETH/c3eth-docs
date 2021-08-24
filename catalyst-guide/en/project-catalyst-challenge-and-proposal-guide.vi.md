@@ -81,13 +81,13 @@ Bạn chỉ có 140 kí tự để trình bày rất nhiều thông tin quan tr�
 
 #### Tìm kiếm lợi thế của bạn
 
-Find your ‘competitive edge’ and ensure you drive it home. We can break down your competitive edge into a couple of different categories. Your solution should include an explanation of as many of these competitive edges as possible. Remember, the people voting on these proposals want to see yours as a ‘sure thing’. If you can clearly explain why you are different from any of the other projects in the blockchain space, then you have a significant competitive advantage.
+Nhận ra được "lợi thế cạnh tranh" của bạn và chắc chắn rằng bạn sử dụng nó. Chúng tôi có thể chia nhỏ những lợi thế cạnh tranh của bạn vào những phân loại khác nhau. Giải pháp của bạn nên bao gồm sự giải thích những lợi ích cạnh trạnh càng nhiều càng tốt. Luôn nhớ rằng mọi người sẽ bỏ phiếu cho bạn nếu họ cảm thấy dự án của bạn là một dự án chắc chắn. Nếu bạn có thể giải thích rõ ràng tại sao bạn khác biệt so với những dự án khác trên nền tảng blockchain, bạn rõ ràng sẽ có lợi thế cạnh tranh.
 
-#### Founders
+#### Nhà đầu tư
 
-The people who are working on your proposal can lend their personal expertise and work history to the project.
+Những người đang làm việc trên dự án của bạn có thể cho mượn những chuyên gia và kinh nghiệm của họ cho dự án.
 
-*Example Experience:*
+*Ví dụ:*
 
 > John Doe completed his PhD with a focus on incentive schemes for blockchain treasury systems.
 #### In Conclusion
