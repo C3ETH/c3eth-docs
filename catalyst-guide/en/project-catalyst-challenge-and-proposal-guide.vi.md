@@ -101,21 +101,21 @@ Những người đang làm việc trên dự án của bạn có thể cho mư�
 
 Bây giờ chúng ta đã có dàn ý cho vấn đề và đưa ra một giải pháp vững chắc, hãy nói về việc thực hiện nó. Những khó khăn khác nhau yêu cầu những giải pháp khác nhau. Chúng tôi đang tìm kiếm những ý tưởng dự án đa dạng từ những chiến dịch quảng cáo và nguồn giáo dục để phát triển, nâng cao cơ sở hạ tầng và phát triển kinh tế
 
-You should look at your plan as a roadmap and a need analysis. First of all, Why does your solution work? While you may have been the first to identify your problem it is important that you explain why your solution will be the most successful in a field of possible options.
+Bạn cần xem kế hoạch của bạn như một lộ trình và phân tích các nhu cầu. Đầu tiên, tại sao giải pháp đó lại hiệu quả? Mặc dù bạn có thể là người đầu tiên xác định được vấn đề của mình, nhưng điều quan trọng là bạn phải giải thích tại sao giải pháp của bạn sẽ thành công nhất trong một lĩnh vực có nhiều lựa chọn.
 
-#### Market
+#### Thị Trường
 
-The market you have identified has not been previously accessed or prioritized. Markets should be identified that have 20 percent growth a year.
+Thị trường bạn xác định chưa từng được tiếp cận hoặc ưu tiên trước đó. Thị trường nên được xác định có 20 phần trăm tăng trưởng mỗi năm.
 
-> *Example:* Our hardware solution works with all proof-of-work blockchains.
+> *Ví dụ:* Giải pháp phần cứng của chúng tôi hoạt động với blockchain proof-of-work (bằng chứng làm việc).
 
-#### Product
+#### Sản phẩm
 
-Your solution works in the market in a particularly impactful way.
+Giải pháp của bạn hoạt động trên thị trường bằng một cách gây ảnh hưởng.
 
-> *Example:* This hardware addition reduces energy consumption of mining rigs by 20 percent.
+> *Ví dụ:* Việc bổ sung phần cứng này làm giảm mức tiêu thụ năng lượng của các máy khai thác xuống 20%.
 
-#### Acquisition
+#### Sáp nhập
 
 Your route to user and platform acquisition is clear and well thought out.
 
@@ -127,11 +127,11 @@ As you grow in the field your company actually gets stronger.
 
 > *Example:* Using the Ouroboros protocol allows our system to become more secure as decentralization increases.
 
-#### Show us the money
+#### Hãy cho chúng tôi biết số quỹ bạn cần
 
-Complex problems often need sufficient funding to be solved. This is understood by the community at Project Catalyst. However, anyone voting on these proposals should be able to know how the funding is being spent. Giving a detailed breakdown of how the budget will be spent. This can come in a variety of ways but distilling your budget into a series of line items is a clear way to show voters that you have considered how major funding initiatives will be spent.
+Những vấn đề phức tạp cần nguồn tài trợ đủ để được giải quyết. Điều này được hiểu bởi cộng đồng dự án Catalyst. Tuy nhiên, những người bỏ phiếu cho những dự án này nên biết được nguồn tài trợ sẽ được dùng như thế nào. Hãy đưa ra một kế hoạch chi tiết về cách bạn sử dụng nguồn tài trợ. Điều này có thể được làm bởi nhiều cách nhưng chắt lọc ngân sách của bạn thành một dãy các hạng mục là một cách rõ ràng để cho người bỏ phiếu biết bạn có cân nhắc cho việc số lượng lớn tiền tài trợ cho ý tưởng được dùng như thế nào.
 
-It is also important to remember that your budget should meet the requirements of the project you’re setting out to accomplish. If you are trying to gain funding for a small meetup then a couple hundred dollars should be sufficient. If you are coordinating the development of critical infrastructure then you will need more resources. Make sure to pair the vision with the appropriate funding.
+Bạn cũng nên nhớ rằng ngân sách của bạn nên phù hợp với yêu cầu của dự án mà bạn thực hiện để đạt được mục tiêu. Nếu bạn muốn nhận nguồn tài trợ cho môt buổi họp mặt nhỏ thì khoảng vài trăm đô la là phù hợp. If you are coordinating the development of critical infrastructure then you will need more resources. Make sure to pair the vision with the appropriate funding.
 
 > *Example:* Creating a developer focused podcast will take $5k in the initial 6 months.
 
