@@ -77,9 +77,9 @@ Bạn chỉ có 140 kí tự để trình bày rất nhiều thông tin quan tr�
 - Address the problem directly to ensure that your solution rises to the challenge
 - Make your project stand out through differentiation
 - Create a solution that solves a problem instead of one looking for a problem
-### Relevant Experience (140 Char limit)
+### Những kinh nghiệm liên quan (tối đa 140 kí tự)
 
-#### Find your edge
+#### Tìm kiếm lợi thế của bạn
 
 Find your ‘competitive edge’ and ensure you drive it home. We can break down your competitive edge into a couple of different categories. Your solution should include an explanation of as many of these competitive edges as possible. Remember, the people voting on these proposals want to see yours as a ‘sure thing’. If you can clearly explain why you are different from any of the other projects in the blockchain space, then you have a significant competitive advantage.
 
@@ -220,6 +220,6 @@ Of course, we want Cardano to be more useful but this challenge doesn’t give t
 
 This challenge has a time frame and addresses a community which is important to the entire Cardano community. Furthemore, it can be addressed in many different ways through both technical and non-technical contributions. However, writing challenge questions is only one important part of Project Catalyst. Addressing those challenges in a clear and concise manner is also necessary to identifying the most impactful ideas for Project Catalyst.
 
-### Tags
+### Dán nhãn
 
 Please add tags to your proposal if you are looking for collaborators/advice/implementers.
