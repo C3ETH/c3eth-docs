@@ -89,17 +89,17 @@ Những người đang làm việc trên dự án của bạn có thể cho mư�
 
 *Ví dụ:*
 
-> John Doe completed his PhD with a focus on incentive schemes for blockchain treasury systems.
-#### In Conclusion
-- Find your competitive edge and make sure that it is well known
-- This might look different for different kinds of projects
-- Remember that your audience is other people on the innovation platform
+> John Doe hoàn thành bằng tiến sĩ của anh ấy với trọng tâm là khuyến khích các hệ thống cho quỹ của blockchain.
+#### Kết luận
+- Tìm điểm mạnh của bạn và chắc chắn rằng nó được nhiều người biết đến
+- Điều này có thể khác nhau với những loại dự án khác nhau
+- Nhớ rằng người xem dự án là những người khác trên nền tảng phát triển
 
-### Plan In Detail
+### Kế hoạch chi tiết
 
-#### Differentiate through insight
+#### Phân biệt qua nội dung
 
-Now that we have outlined the problem and given a solid solution, let’s talk about execution. Different problems require different solutions. We are looking for a wide variety of project ideas from marketing campaigns and educational resources to developer infrastructure improvements and business development
+Bây giờ chúng ta đã có dàn ý cho vấn đề và đưa ra một giải pháp vững chắc, hãy nói về việc thực hiện nó. Những khó khăn khác nhau yêu cầu những giải pháp khác nhau. Chúng tôi đang tìm kiếm những ý tưởng dự án đa dạng từ những chiến dịch quảng cáo và nguồn giáo dục để phát triển, nâng cao cơ sở hạ tầng và phát triển kinh tế
 
 You should look at your plan as a roadmap and a need analysis. First of all, Why does your solution work? While you may have been the first to identify your problem it is important that you explain why your solution will be the most successful in a field of possible options.
 
