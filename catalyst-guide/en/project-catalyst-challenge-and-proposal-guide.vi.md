@@ -12,7 +12,7 @@ Tên dự án nên thể hiện được sự đổi mới mà bạn đang cố 
 
 **Tiêu đề ví dụ:**
 
-> Stake pool operator vlog network
+> Mạng Vlog của người tạo bể đào
 
 ### Cách viết một phát biểu vấn đề (tối đa 140 kí tự)
 
@@ -28,7 +28,7 @@ Mỗi một quỹ sẽ có những thách thức riêng mà các đề xuất s�
 
 > Những nhà đóng góp không muốn đối phó với tình trạng quan liêu\mất thời gian trong việc bảo đảm nguồn vốn. Làm cách nào để giúp những người đóng góp cho Cardano hợp lý hoá các dự án?
 
-> I am trying to solve the problem of bootstrapping decentralized\open finance movement on Cardano before Plutus and Marlowe hit mainnet.
+> Tôi đang cố gắng giải quyết vấn đề khởi động phong trào tài chính mở \ phi tập trung trên Cardano trước khi Plutus và Marlowe tấn công mainnet.
 
 Trong cả hai ví dụ này thì mối quan hệ giữa các vấn đề và các thách thức thì khá rõ ràng. Đây là những gì mà những người bỏ phiếu đang tìm kiếm. Tuy nhiên, mặc dù nội dung của các vấn đề đặt ra khá rõ ràng và hiệu quả, chúng vẫn có thể được cải thiện.
 
@@ -71,12 +71,12 @@ Bạn chỉ có 140 kí tự để trình bày rất nhiều thông tin quan tr�
 
 *Ví dụ về giải pháp*
 
-> Create a stakepool operator-run digital magazine maintained on the blockchain to expose Cardano to new audiences outside of current users.
+> Tạo một tạp chí kỹ thuật số do nhà điều hành bể đào duy trì trên blockchain để giới thiệu Cardano với các đối tượng mới bên ngoài người dùng hiện tại.
 
-#### In Conclusion
-- Address the problem directly to ensure that your solution rises to the challenge
-- Make your project stand out through differentiation
-- Create a solution that solves a problem instead of one looking for a problem
+#### Kết luận
+- Giải quyết vấn đề một cách trực tiếp để đảm bảo rằng giải pháp của bạn đạt được thách thức
+- Làm cho dự án của bạn nổi bật thông qua sự khác biệt
+- Tạo một giải pháp giải quyết vấn đề thay vì tìm kiếm một vấn đề
 ### Những kinh nghiệm liên quan (tối đa 140 kí tự)
 
 #### Tìm kiếm lợi thế của bạn
@@ -117,15 +117,15 @@ Giải pháp của bạn hoạt động trên thị trường bằng một cách
 
 #### Sáp nhập
 
-Your route to user and platform acquisition is clear and well thought out.
+Lộ trình của bạn để sáp nhập người dùng và nền tảng là rõ ràng và được suy nghĩ kỹ lưỡng.
 
-> *Example:*  Access to network information drives user acquisition for no cost
+> * Ví dụ: *  Truy cập vào thông tin mạng thúc đẩy sáp nhập người dùng mà không mất phí
 
-#### Monopoly
+#### Sự độc quyền
 
-As you grow in the field your company actually gets stronger.
+Khi bạn phát triển trong lĩnh vực này, công ty của bạn thực sự trở nên mạnh mẽ hơn.
 
-> *Example:* Using the Ouroboros protocol allows our system to become more secure as decentralization increases.
+> * Ví dụ: * Sử dụng giao thức Ouroboros cho phép hệ thống của chúng tôi trở nên an toàn hơn khi sự phi tập trung tăng lên.
 
 #### Hãy cho chúng tôi biết số quỹ bạn cần
 
@@ -190,7 +190,7 @@ Việc bạn có thể chia sẻ thêm những thông tin cần thiết là rấ
 - Tham gia trực tiếp trong quá trình cải tiến để đảm bảo rằng nó vẫn tiếp tục phát triển
 ### Làm cách nào để viết một dự án lựa chọn của cộng đồng
 
-#### Emancipating the community
+#### Giải phóng cho cộng đồng
 
 Mục đích để dự án cộng đồng Catalyst tự viết những thách thức của mình là để giải phóng được nền tảng từ nhóm dự án Catalyst. Đến cuối cùng thì, Cộng đồng Cardano sẽ kiểm soát sự phát triển và quá trình cộng tác từ khi bắt đầu cho đến lúc triển khai. Với suy nghĩ đó trong đầu, việc chúng ta hiểu được sự ảnh hưởng của những thách thức đó là rất quan trọng.
 
@@ -220,6 +220,6 @@ Câu hỏi thử thách này chỉ giải quyết được những bể đào �
 
 Thách thức này có khung thời gian và đưa ra một nhóm cộng đồng, điều này rất là quan trọng đối với toàn thể cộng đồng Cardano. Hơn nữa, nó có thể được giải quyết theo nhiều cách khác nhau thông qua các đóng góp cả về kỹ thuật và phi kỹ thuật. Tuy nhiên, viết câu hỏi Thử thách chỉ là một phần quan trọng của dự án Catalyst. Giải quyết những thách thức đó một cách rõ ràng và ngắn gọn là rất cần thiết để xác định các ý tưởng có tác động nhiều nhất cho dự án Catalyst.
 
-### Dán nhãn
+### Gắn Thẻ
 
-Please add tags to your proposal if you are looking for collaborators/advice/implementers.
+Vui lòng thêm thẻ vào đề xuất của bạn nếu bạn đang tìm kiếm người cộng tác/lời khuyên /người triển khai.
