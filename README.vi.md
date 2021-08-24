@@ -1,37 +1,37 @@
-# C3ETH Documents
+# Tài liệu C3ETH
 
-Primary working repository for C3ETH's Documents.
-## Table of Contents
+Kho lưu trữ tài liệu làm việc chính của C3ETH.
+## Mục lục
 
-- [C3ETH Documents](#c3eth-documents)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Change Log](#change-log)
-  - [Acknowledgements](#acknowledgements)
-  - [Contributors ✨](#contributors-)
-  - [License](#license)
+- [Tài liệu C3ETH](#c3eth-documents)
+  - [Mục lục](#table-of-contents)
+  - [Giới thiệu](#introduction)
+  - [Nhật ký thay đổi](#change-log)
+  - [Nguồn](#acknowledgements)
+  - [Người đóng góp](#contributors-)
+  - [Giấy phép](#license)
 
-## Introduction
+## Giới thiệu
 
 TBD
 
 ## Change Log
 
-See [CHANGELOG.md](CHANGELOG.md) for notable changes and versions.
+Xem [CHANGELOG.md](CHANGELOG.md) để biết các thay đổi và phiên bản đáng chú ý.
 
-## Acknowledgements
+## Nguồn
 
-* [Project Catalyst](https://cardano.ideascale.com/)
+* [Dự án Catalyst](https://cardano.ideascale.com/)
 * [Catalyst Swarm](https://www.swarm4catalyst.com/)
-* [Catalyst School]()
-* [IOHK Project Catalyst Team](https://iohk.io/)
+* [Trường học Catalyst]()
+* [Nhóm dự án Catalyst IOHK](https://iohk.io/)
 
-## Contributors ✨
+## Người đóng góp
 
-Thanks goes to these wonderful contributors (see [emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Lời cảm ơn chân thành đến những người đóng góp tuyệt vời này (see [emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![Tất cả người đóng góp](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -50,12 +50,12 @@ Thanks goes to these wonderful contributors (see [emoji key](https://allcontribu
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+Dự án này tuân theo quy định [Tất cả người đóng gớp](https://github.com/all-contributors/all-contributors). Những đóng góp ở bất kỳ hình thức nào đều được chào đón!
 
-## License
+## Giấy phép
 
-The documentation repository `c3eth\c3eth-docs` is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Kho tài liệu ` c3eth \ c3eth-docs ` được cấp phép theo [ Giấy phép Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) v4.0. ](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-You are free to Share (copy and redistribute) the material in any medium or format adapt, remix, transform, and build upon the material. You may not use the material for commercial purposes.  If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. No warranties are given. The license may not give you all of the permissions necessary for your intended use.
+Bạn có thể tự do Chia sẻ (sao chép và phân phối lại) tài liệu ở bất kỳ phương tiện hoặc định dạng nào phóng tác, phối lại, chuyển đổi và xây dựng dựa trên tài liệu. Bạn không thể sử dụng tài liệu cho mục đích thương mại.  Nếu bạn sửa đổi, chuyển đổi hoặc xây dựng dựa trên tài liệu, bạn phải phân phối các đóng góp của mình theo cùng một giấy phép như bản gốc. Không có sự đảm bảo nào được đưa ra. Giấy phép có thể không cung cấp cho bạn tất cả các quyền cần thiết cho mục đích sử dụng của bạn.
 
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+Người cấp phép không thể thu hồi các quyền tự do này miễn là bạn tuân theo các điều khoản cấp phép.
