@@ -137,88 +137,88 @@ Bạn cũng nên nhớ rằng ngân sách của bạn nên phù hợp với yêu
 
 #### Thực hiện
 
-Khi xây dựng dự án, bạn nên viết như thể bạn sẽ nhận được tài trợ. But it’s important that anyone reading your proposal understands that you will be able to hit the ground running. This is where your roadmap comes in. Your roadmap should break down all of the key milestones you intend to hit once funding is received. This can be done in a couple of different ways, but a good roadmap details your one month, three month, and six month goals.
+Khi xây dựng dự án, bạn nên viết như thể bạn sẽ nhận được tài trợ. Nhưng việc làm cho người đọc dự án hiểu rằng bạn có khả năng thực hiện nó là rất quan trọng. Đây là nơi mà lộ trình của bạn bắt đầu. Lộ trình của bạn nên được chia nhỏ ra những cột mốc quan trọng bạn muốn đạt được khi bạn nhận được nguồn tài trợ. Điều này có thể được làm bằng nhiều cách khác nhau, nhưng một lộ trình tốt sẽ thể hiện chi tiết được mục tiêu trong 1 tháng, 3 tháng, và 6 tháng.
 
-In the roadmap it is also important to identify your key performance indicators (KPIs). These are the goals that you hit which demonstrate that you have been successful. Here are some examples of KPIs:
+Trong lộ trình của bạn, nó cũng rất quan trọng để xác định được chỉ số đo lường hiệu quả công việc (KPIs). Đây là những mục tiêu bạn nhắm tới thể hiện được bạn đã thành công. Sau đây là một vài ví dụ cho KPIs:
 
-- Users acquired
-- Product capability built
-- Performance benchmark reached
-- Network stability achieved for x amount of time
+- Yêu cầu của người dùng
+- Khả năng xây dựng sản phẩm
+- Đạt được tiêu chuẩn của hiệu suất
+- Độ ổn định của hệ thống đạt được trong khoảng thời gian x
 
-The important thing to remember about KPIs is that they should have a number attached to them. Acquiring an initial 15 users is an achievable goal. Acquiring ‘a lot’ of users is pretty vague and difficult for anyone to adjudicate. Remember, you are presenting these ideas to the community, the clearer you make your intentions and the easier it is to verify that you have achieved your goals, the more likely it is that you will be seen as a great bet.
+Việc quan trọng cần nhớ về KPIs đó là nên có con số cụ thể đi kèm với nó. Đạt được 15 người dùng đầu tiên là một mục tiêu có thể đạt được. Đạt được "rất nhiều" người dùng thì khá là mơ hồ và rất khó để mọi người có thể quyết định. Hãy nhớ rằng, bạn đang trình bày những ý tưởng này cho cộng đồng, ý định của bạn càng rõ ràng và bạn càng xác minh được bạn đã đạt được mục tiêu của mình, thì bạn càng có nhiều khả năng được mọi người xem là một vụ cá cược chắc thắng.
 
-#### Intellectual Property
+#### Sở hữu trí tuệ
 
-Please share with reviewers what is your IP policy (Patents, trademarks, copyright, licensing etc) so they can assess if that is a good fit for the treasury.
+Hãy chia sẻ với người xem những chính sách sở hữu trí tuệ của bạn (Bằng sáng chế, nhãn hiệu, bản quyền, giấy phép, v. v.) để họ có thể đánh giá xem nó có phù hợp với quỹ hay không.
 
-#### Defining Success
+#### Định nghĩa thành công
 
-What does success look like for this particular project? While it might not be entirely complete after one round of funding, your proposal should give us an idea of what an end state looks like. This, like your KPIs should be an easily understood number that can be verified by anyone.
+Thành công sẽ trông như thế nào đối với dự án đặc thù này? Mặc dù nó có thể không hoàn thành hoàn toàn sau một vòng tài trợ, nhưng dự án của bạn nên cho chúng tôi biết nó sẽ được kết thúc như thế nào. Điều này, giống như KPIs nên là một con số dễ hiểu mà ai cũng có thể xác minh được.
 
-#### In Conclusion
+#### Kết luận
 
-- Suit the budget and the roadmap to the needs of your project.
-- Establish reachable key performance indicators that show good progress towards your goal.
-- Establish intellectual property rights so that everyone knows who owns what.
-- Define success for your project.
+- Ngân sách và lộ trình của dự án nên phù hợp với nhu cầu của dự án.
+- Thiết lập chỉ số đo lường hiệu quả công việc mà bạn có thể đạt được để thể hiện được quá trình mà bạn đang hướng tới mục đích.
+- Thiết lập quyền sở hữu trí tuệ để mọi người biết được ai sở hữu nó.
+- Định nghĩa thành công cho dự án của bạn.
 
-### Attachments/links
+### Tệp đính kèm/đường kiên kết
 
-It is important for everyone to be able to share additional necessary information. That is why PDFs, images and additional URLs can be sent through the Ideascale where they can be viewed by everyone.
+Việc bạn có thể chia sẻ thêm những thông tin cần thiết là rất quan trọng. Đó là lý do vì sao PDFs, hình ảnh và những đường dẫn URLs thêm có thể được gửi qua Ideascale nơi ai cũng có thể nhìn thấy và truy cập.
 
-### FeedBack
+### Phản hồi
 
-#### Community support
+#### Sự hỗ trợ từ cộng đồng
 
-In order to make each individual proposal as strong as possible we encourage everyone to use the innovation platform to discuss each idea. In fact, we’ve created reviewer guidelines to help you direct your critique. For a productive and informative conversation we encourage everyone to focus their feedback on the following areas:
+Để làm cho dự án của từng cá nhân trở nên mạnh mẽ nhất có thể, chúng tôi khuyến khích mọi người dùng nền tảng tiên tiến để thảo luận từng ý tưởng. Trên thực tế, chúng tôi đã tạo ra các hướng dẫn dành cho người đánh giá để giúp bạn định hướng cho bài đánh giá của mình. Để có được những cuộc hội thoại hiệu quả và nhiều thông tin, chúng tôi khuyến khích mọi người tập trung phản hồi trên những phương diện sau đây:
 
-*Auditability:* What details are missing from the proposal to help reviewers accurately assess the project?
+* Khả năng đánh giá: * Những chi tiết nào còn thiếu trong dự án mà giúp cho người đánh giá đánh giá chính xác dự án?
 
-*Impact:* How can the proposal better address the challenge? How can we encourage people to build dApps on Cardano in the next 6 months?
+*Sự ảnh hưởng:* Làm cách nào mà dự án có thể giải quyết tốt hơn thách thức này? Làm cách nào mà chúng ta khuyến khích được mọi người xây dựng dApps trên Cardano trong vòng 6 tháng tới?
 
-*Feasibility:* What are ways that the proposal’s budget, plan, and scope can be modified in order to make it more achievable.
+* Tính khả thi: * Những cách nào để chỉnh sửa ngân sách, kế hoạch và phạm vi của dự án để làm cho nó dễ đạt được hơn.
 
-**Example**
+**Ví dụ**
 
-> If your marketing initiative gave the exact number of users it was attempting to onboard as a KPI then it would be much easier to track its success.
+> Nếu sáng kiến quảng bá của bạn cung cấp chính xác số lượng người dùng mà nó đang cố gắng đưa vào làm KPI thì việc theo dõi sự thành công của nó sẽ dễ dàng hơn nhiều.
 
-#### In conclusion*
+#### Kết luận*
 
-- Make other proposals stronger by giving good feedback
-- Incorporate useful feedback into your own proposal
-- Participate actively in the innovation process to make sure it continues to grow
-### How To Write a Community Choice Proposal
+- Đưa ra những phản hồi tốt để làm cho những dự án khác đáng tin cậy hơn
+- Kết hợp những phản hồi có ích cho dự án của mình
+- Tham gia trực tiếp trong quá trình cải tiến để đảm bảo rằng nó vẫn tiếp tục phát triển
+### Làm cách nào để viết một dự án lựa chọn của cộng đồng
 
 #### Emancipating the community
 
-The purpose of having the Project Catalyst community write their own challenge is to emancipate the platform from the Project Catalyst team. Eventually, the Cardano community will control the innovation and collaboration process from inception to delivery. With that in mind, it is crucial that we understand what an impactful challenge looks like.
+Mục đích để dự án cộng đồng Catalyst tự viết những thách thức của mình là để giải phóng được nền tảng từ nhóm dự án Catalyst. Đến cuối cùng thì, Cộng đồng Cardano sẽ kiểm soát sự phát triển và quá trình cộng tác từ khi bắt đầu cho đến lúc triển khai. Với suy nghĩ đó trong đầu, việc chúng ta hiểu được sự ảnh hưởng của những thách thức đó là rất quan trọng.
 
-#### Focus on advancement
+#### Tập trung vào sự phát triển
 
-The challenge is a question which helps the community focus its creativity on advancing the Cardano ecosystem. Of course, ‘advancement’ means different things to different people. The key to writing an impactful challenge question is balance. It must be broad enough to be addressed in multiple ways, but specific enough to enhance the value of Cardano for everyone.
+Thử thách là một câu hỏi giúp cho cộng đồng tập trung vào sự sáng tạo trong việc phát triển hệ sinh thái Cardano. Đương nhiên, 'Phát triển' có nghĩa khác nhau với những người khác nhau. Chìa khoá để viết được một thử thách có sức ảnh hưởng đó là sự cân bằng. Nó phải đủ rộng để được giải quyết trong nhiều cách khác nhau, nhưng đủ cụ thể để nâng cao giá trị của Cardano cho mọi người.
 
-#### Challenge question examples
+#### Ví dụ cho câu hỏi thách thức
 
-Below are a couple examples of challenge questions:
+Dưới đây là một vài ví dụ cho câu hỏi thách thức:
 
-*Too Specific*
+*Quá cụ thể*
 
-> How can stake pool operators based in southern Europe make their pool more attractive delegators in the next 2 months?
+> Làm cách nào mà những bể đào ở phía Nam Châu Âu có thể thu hút nhiều người đại diện hơn trong 2 tháng tới?
 
-This challenge question addresses only stake pool operators in Southern Europe. Cardano is a global ecosystem which allows participation in many different ways. The challenge question should help everyone.
+Câu hỏi thử thách này chỉ giải quyết được những bể đào ở phía Nam Châu Âu. Cardano là một hệ sinh thái toàn cầu mà cho phép mọi người tham gia bằng rất nhiều cách khác nhau. Câu hỏi thử thách nên giúp đỡ tất cả mọi người.
 
-*Too Broad*
+*Quá rộng*
 
-> How can we make Cardano more useful?
+> Làm cách nào để Cardano trở nên có ích hơn?
 
-Of course, we want Cardano to be more useful but this challenge doesn’t give the participants any parameters to spark their creativity. Constraints are necessary to help the community address the direct needs of the ecosystem.
+Đương nhiên, chúng ta mong muốn Cardano sẽ có ích hơn nhưng Thách thức này không cho người tham dự một thước đo để họ có thể kích thích sự sáng tạo của họ. Các ràng buộc là cần thiết để giúp cộng đồng giải quyết các nhu cầu trực tiếp của hệ sinh thái.
 
-*Just Right*
+*Vừa đủ*
 
-> How can we encourage entrepreneurs to develop businesses on Cardano in the next six months?
+> Làm thế nào chúng tôi có thể khuyến khích các doanh nhân phát triển doanh nghiệp trên Cardano trong sáu tháng tới?
 
-This challenge has a time frame and addresses a community which is important to the entire Cardano community. Furthemore, it can be addressed in many different ways through both technical and non-technical contributions. However, writing challenge questions is only one important part of Project Catalyst. Addressing those challenges in a clear and concise manner is also necessary to identifying the most impactful ideas for Project Catalyst.
+Thách thức này có khung thời gian và đưa ra một nhóm cộng đồng, điều này rất là quan trọng đối với toàn thể cộng đồng Cardano. Hơn nữa, nó có thể được giải quyết theo nhiều cách khác nhau thông qua các đóng góp cả về kỹ thuật và phi kỹ thuật. Tuy nhiên, viết câu hỏi Thử thách chỉ là một phần quan trọng của dự án Catalyst. Giải quyết những thách thức đó một cách rõ ràng và ngắn gọn là rất cần thiết để xác định các ý tưởng có tác động nhiều nhất cho dự án Catalyst.
 
 ### Dán nhãn
 
