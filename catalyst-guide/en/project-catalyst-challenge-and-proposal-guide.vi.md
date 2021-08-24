@@ -131,13 +131,13 @@ As you grow in the field your company actually gets stronger.
 
 Những vấn đề phức tạp cần nguồn tài trợ đủ để được giải quyết. Điều này được hiểu bởi cộng đồng dự án Catalyst. Tuy nhiên, những người bỏ phiếu cho những dự án này nên biết được nguồn tài trợ sẽ được dùng như thế nào. Hãy đưa ra một kế hoạch chi tiết về cách bạn sử dụng nguồn tài trợ. Điều này có thể được làm bởi nhiều cách nhưng chắt lọc ngân sách của bạn thành một dãy các hạng mục là một cách rõ ràng để cho người bỏ phiếu biết bạn có cân nhắc cho việc số lượng lớn tiền tài trợ cho ý tưởng được dùng như thế nào.
 
-Bạn cũng nên nhớ rằng ngân sách của bạn nên phù hợp với yêu cầu của dự án mà bạn thực hiện để đạt được mục tiêu. Nếu bạn muốn nhận nguồn tài trợ cho môt buổi họp mặt nhỏ thì khoảng vài trăm đô la là phù hợp. If you are coordinating the development of critical infrastructure then you will need more resources. Make sure to pair the vision with the appropriate funding.
+Bạn cũng nên nhớ rằng ngân sách của bạn nên phù hợp với yêu cầu của dự án mà bạn thực hiện để đạt được mục tiêu. Nếu bạn muốn nhận nguồn tài trợ cho môt buổi họp mặt nhỏ thì khoảng vài trăm đô la là phù hợp. Nếu bạn đang quản lý sự phát triển của cơ sở hạ tầng thì bạn sẽ cần nhiều nguồn lực hơn nữa. Đảm bảo rằng tầm nhìn và số quỹ tài trợ thích hợp nên gắn liền với nhau.
 
-> *Example:* Creating a developer focused podcast will take $5k in the initial 6 months.
+> *Ví dụ:* Tạo ra một podcast tập trung vào nhà phát triển phần mềm sẽ mất khoảng 5,000 đô cho 6 tháng đầu tiên.
 
-#### Getting on the road
+#### Thực hiện
 
-When building your proposal, you should write as if you will be receiving funding. But it’s important that anyone reading your proposal understands that you will be able to hit the ground running. This is where your roadmap comes in. Your roadmap should break down all of the key milestones you intend to hit once funding is received. This can be done in a couple of different ways, but a good roadmap details your one month, three month, and six month goals.
+Khi xây dựng dự án, bạn nên viết như thể bạn sẽ nhận được tài trợ. But it’s important that anyone reading your proposal understands that you will be able to hit the ground running. This is where your roadmap comes in. Your roadmap should break down all of the key milestones you intend to hit once funding is received. This can be done in a couple of different ways, but a good roadmap details your one month, three month, and six month goals.
 
 In the roadmap it is also important to identify your key performance indicators (KPIs). These are the goals that you hit which demonstrate that you have been successful. Here are some examples of KPIs:
 
